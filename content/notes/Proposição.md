@@ -1,4 +1,5 @@
 ---
+title: "Preposição"
 tags: matematica, logica
 ---
 # Proposição
@@ -9,13 +10,15 @@ Data: 02/08/2023
 
 Proposição condicional ou implicativa é uma proposição que parte de uma premissa e sua conclusão depende dela para sua veracidade. Por exemplo:
 
-$$\displaylines {
+$$
+\displaylines {
 	\text{Se P, então Q}
 	\newline \text{ou}
 	\newline \text{P implica Q}
 	\newline \text{ou}
 	\newline P \Rightarrow Q
-}$$
+}
+$$
 
 O [[Teorema de Pitágoras]] é um exemplo de proposição:
 

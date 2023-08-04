@@ -1,4 +1,5 @@
 ---
+title: "Axioma"
 tags: matematica, logica
 ---
 # Axioma
