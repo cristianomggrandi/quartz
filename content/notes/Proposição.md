@@ -12,16 +12,20 @@ Data: 02/08/2023
 
 Proposição condicional ou implicativa é uma proposição que parte de uma premissa e sua conclusão depende dela para sua veracidade. Por exemplo:
 
-$$\text{Se P, então Q}$$
-$$ou$$
-$$\text{P implica Q}$$
-$$ou$$
-$$P \Rightarrow Q$$
+$$
+\begin{equation}
+\begin{gathered}
+\text{Se P, então Q} \\
+\text{ou}\\
+\text{P implica Q}\\
+\text{ou}\\
+P \Rightarrow Q
+\end{gathered}
+\end{equation}
+$$
 
-O [[Teorema de Pitágoras]] é um exemplo de proposição:
 
-Se T é um triângulo retângulo cuja hipotenusa tem medida $a$ e os catetos tem medida $b$ e $c$, então
-$$a^2 = b^2 + c^2$$
+O [[Teorema de Pitágoras]] é um exemplo de proposição.
 
 Existem preposições associadas a uma preposição condicional. Elas são:
 

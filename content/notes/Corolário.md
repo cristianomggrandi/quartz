@@ -1,0 +1,22 @@
+---
+title: "Corolários"
+tags:
+- matemática
+- lógica
+---
+# Corolário
+
+Data: 04/08/2023
+
+Um [[notes/Corolário|Corolário]] é uma afirmação deduzida de uma verdade já demonstrada.
+
+Um [[Teorema]] corolário é uma conclusão que pode ser tirada diretamente da demonstração de outros teoremas.
+
+**Exemplo:**
+
+Assumindo que:
+(1) Se $x$ é par, $x^2$ é par
+(2) Se $x$ é ímpar, $x^2$ é ímpar
+
+Conclui-se que:
+Seja $x$ um inteiro. $x$ é par se, e somente se, $x^2$ é par.
