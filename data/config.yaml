@@ -1,5 +1,5 @@
-name: Jacky Zhao
-enableToc: true
+name: Cristiano Grandi
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -7,12 +7,12 @@ enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
-enableFooter: true
+enableFooter: false
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false 
 enableMermaid: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/cristianomggrandi/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
@@ -23,7 +23,7 @@ description:
 page_title:
   "🪴 Quartz 3.3"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
+  # - link_name: Twitter
+  #   link: https://twitter.com/_jzhao
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/cristianomggrandi
