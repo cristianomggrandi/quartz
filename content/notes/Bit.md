@@ -1,7 +1,7 @@
 ---
 title: "Bit"
 tags:
-- informatica
+- informática
 ---
 # Bit
 
