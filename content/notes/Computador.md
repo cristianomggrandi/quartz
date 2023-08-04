@@ -1,6 +1,7 @@
 ---
 title: "Computador"
-tags: informatica
+tags: 
+- informatica
 ---
 # Computador
 
