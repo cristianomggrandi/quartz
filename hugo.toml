@@ -1,9 +1,7 @@
-defaultContentLanguage = 'pt'
-defaultContentLanguageInSubdir = false
+defaultContentLanguage = 'pt-br'
 [languages]
   [languages.pt]
-    languageCode = 'pt'
-    languageDirection = 'ltr'
+    languageCode = 'pt-br'
     languageName = 'Portuguese'
     title = 'Documentação do Projeto'
     weight = 1
