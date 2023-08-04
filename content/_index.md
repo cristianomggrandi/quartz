@@ -1,5 +1,5 @@
 ---
-title: Eu preciso mudar isso
+title: "Eu preciso mudar isso"
 enableToc: false
 ---
 
