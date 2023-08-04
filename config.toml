@@ -1,5 +1,5 @@
 baseURL = "https://cristianomggrandi.github.io/quartz/"
-languageCode = "pt"
+languageCode = "pt-BR"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
