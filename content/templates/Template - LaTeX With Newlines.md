@@ -1,4 +1,0 @@
-$$\displaylines {
-	\text {}
-	\newline
-}$$
