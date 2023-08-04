@@ -1,6 +1,6 @@
 # baseURL = "https://three.quartz.jzhao.xyz/"
 baseURL = "https://cristianomggrandi.github.io/quartz/"
-languageCode = "pt-BR"
+languageCode = "pt"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
