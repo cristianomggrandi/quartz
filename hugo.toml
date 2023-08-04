@@ -9,11 +9,3 @@ defaultContentLanguageInSubdir = false
     weight = 1
     [languages.pt.params]
       subtitle = 'Referência, Tutoriais and Explicações'
-  [languages.en]
-    languageCode = 'en-US'
-    languageDirection = 'ltr'
-    languageName = 'English'
-    title = 'Project Documentation'
-    weight = 2
-    [languages.en.params]
-      subtitle = 'Reference, Tutorials, and Explanations'
