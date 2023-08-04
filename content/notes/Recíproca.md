@@ -1,6 +1,8 @@
 ---
 title: "Recíproca"
-tags: matematica, logica
+tags:
+- matemática
+- lógica
 ---
 # Recíproca
 

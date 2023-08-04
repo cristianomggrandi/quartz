@@ -1,5 +1,7 @@
 ---
-tags: daily
+title: {{date:DD/MM/YYYY}}
+tags:
+- daily
 publish: false
 ---
 # {{date}}
