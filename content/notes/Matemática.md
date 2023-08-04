@@ -1,6 +1,7 @@
 ---
 title: "Matemática"
-tags: matematica
+tags:
+- matemática
 ---
 # Matemática
 

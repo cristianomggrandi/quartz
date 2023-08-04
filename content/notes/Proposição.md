@@ -1,6 +1,8 @@
 ---
 title: "Preposição"
-tags: matematica, logica
+tags:
+- matemática
+- lógica
 ---
 # Proposição
 

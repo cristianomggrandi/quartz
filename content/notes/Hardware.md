@@ -1,6 +1,7 @@
 ---
 title: "Hardware"
-tags: informatica
+tags:
+- informática
 ---
 # Hardware
 

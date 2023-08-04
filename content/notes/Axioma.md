@@ -1,6 +1,8 @@
 ---
 title: "Axioma"
-tags: matematica, logica
+tags:
+- matemática
+- lógica
 ---
 # Axioma
 

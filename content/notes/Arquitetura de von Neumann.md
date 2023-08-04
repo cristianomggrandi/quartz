@@ -1,6 +1,8 @@
 ---
 title: "Arquitetura de von Neumann"
-tags: informatica, hardware
+tags:
+- informática
+- hardware
 ---
 # Arquitetura de von Neumann
 
