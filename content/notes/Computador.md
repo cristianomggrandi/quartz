@@ -1,4 +1,5 @@
 ---
+title: "Computador"
 tags: informática
 ---
 # Computador

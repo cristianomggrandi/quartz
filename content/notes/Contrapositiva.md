@@ -1,4 +1,5 @@
 ---
+title: "Contrapositiva"
 tags: matematica, logica
 ---
 # Contrapositiva
