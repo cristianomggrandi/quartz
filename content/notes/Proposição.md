@@ -13,7 +13,6 @@ Data: 02/08/2023
 Proposição condicional ou implicativa é uma proposição que parte de uma premissa e sua conclusão depende dela para sua veracidade. Por exemplo:
 
 $$
-\begin{equation}
 \begin{gathered}
 \text{Se P, então Q} \\
 \text{ou}\\
@@ -21,7 +20,6 @@ $$
 \text{ou}\\
 P \Rightarrow Q
 \end{gathered}
-\end{equation}
 $$
 
 
