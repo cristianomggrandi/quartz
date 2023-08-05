@@ -15,13 +15,11 @@ Uma [[Demonstração por Contradição]], ou por absurdo, utiliza do [[Princípi
 Supondo, por absurdo, que existam $a,b \in \mathbb{R}$, $a,b \geqslant 0$, tais que $\frac{a+b}{2} < \sqrt{ab}$, então
 
 $$
-\begin{equation}
 \begin{gathered}
 a + b < 2\sqrt{ab} \\
 a - \sqrt{ab} + b < 0 \\
 (\sqrt{a} - \sqrt{b})^2 < 0 \\
 \end{gathered}
-\end{equation}
 $$
 
 Como é impossível haver um número $x, x \in \mathbb{R}$ tal que $x^2 < 0$, podemos concluir que
@@ -32,26 +30,22 @@ $$\frac{a+b}{2} \ge \sqrt{ab}$$
 Supondo, por absurdo, que $\sqrt{2}$ é racional. Então $\sqrt{2} = \frac{p}{q}$, $p,q \in \mathbb{R}, q \neq 0$ e $p$ e $q$ não possuem nenhum fator em comum.
 
 $$
-\begin{equation}
 \begin{gathered}
 \sqrt{2} = \frac{p}{q} \\
 2 = \frac{p^2}{q^2} \\
 2q^2 = p^2
 \end{gathered}
-\end{equation}
 $$
 
 Como sabemos que, se $p^2$ é par, $p$ é par, $p = 2r, r \in \mathbb{Z}$.
 
 $$
-\begin{equation}
 \begin{gathered}
 \sqrt{2} = \frac{p}{q} = \frac{2r}{q} \\
 2 = \frac{4r^2}{q^2} \\
 2q^2 = 4r^2 \\
 q^2 = 2r^2
 \end{gathered}
-\end{equation}
 $$
 
 Como $q^2$ é par, $q$ é par. Assim, não podemos dizer que $p$ e $q$ não possuem nenhum fator em comum.
