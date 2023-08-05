@@ -1,5 +1,5 @@
 ---
-title: "Preposição"
+title: "Proposição"
 tags:
 - matemática
 - lógica
@@ -27,7 +27,7 @@ $$
 
 O [[Teorema de Pitágoras]] é um exemplo de proposição.
 
-Existem preposições associadas a uma preposição condicional. Elas são:
+Existem proposições associadas a uma proposição condicional. Elas são:
 
 - [[Recíproca]]
 - [[Contrapositiva]]
