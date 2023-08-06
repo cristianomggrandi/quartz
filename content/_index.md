@@ -14,4 +14,4 @@ Como forma de organização em temas há as [Tags](https://cristianomggrandi.git
 Além disso, cada nota é ligada a diversas outras.
 Essas ligação criam uma teia que não se limita à separação por tema.
 
-Em caso de dúvida, mande um e-mail para cristianomggrandi@gmail.com.
+Em caso de dúvida, mande um e-mail para **cristianomggrandi@gmail.com**.
