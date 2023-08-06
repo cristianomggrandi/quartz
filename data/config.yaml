@@ -8,21 +8,18 @@ enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
-enableFooter: false
+enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: false 
+enableGitHubEdit: false
 enableMermaid: true
 GitHubLink: https://github.com/cristianomggrandi/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
-page_title:
-  "🪴 Quartz 3.3"
+description: Minhas anotações sobre o curso de Engenharia da Computação.
+page_title: "📖 Minhas anotações 📖"
 links:
   # - link_name: Twitter
   #   link: https://twitter.com/_jzhao
