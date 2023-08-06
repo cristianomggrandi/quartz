@@ -18,6 +18,6 @@ $$
 x^2 = (2k)^2 = 4k^2 = 2(2k^2) \\\\
 \text{Se assumimos que } q = 2k^2 \text{, então } x^2 = 2q \\\\
 \text{Como sabemos que }k\text{ é par, } q \text{ é par.} \\\\
-\text{Portanto, } x^2 \text{ é par }. \ \blacksquare
+\text{Logo, } x^2 \text{ é par }. \blacksquare
 \end{gathered}
 $$

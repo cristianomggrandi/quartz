@@ -50,4 +50,4 @@ $$
 
 Como $q^2$ é par, $q$ é par. Assim, não podemos dizer que $p$ e $q$ não possuem nenhum fator em comum.
 
-Logo, $\sqrt{2}$ é irracional.
+Logo, $\sqrt{2}$ é irracional. $\blacksquare$

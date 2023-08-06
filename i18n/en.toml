@@ -1,20 +1,20 @@
 [404_message]
-other = "Hey! You look a little lost. This page doesn't exist (or may be private)."
+other = "Ei! Você parece um pouco perdido. Esta página não existe (ou é privada)."
 
 [404_back]
-other = "↳ Voltar ao início."
+other = "↳ Vamos te levar para casa."
 
 [all_posts]
-other = "All {{.Title}}"
+other = "Todos {{.Title}}"
 
 [last_updated]
-other = "Last updated"
+other = "Última atualização"
 
 [notes_count]
-other = "notes with this tag"
+other = "notas com essa tag"
 
 [first_10]
-other = "showing first 10 results"
+other = "mostrando os primeiros 10 resultados"
 
 [tag]
 other = "Tag"
@@ -23,10 +23,10 @@ other = "Tag"
 other = "Backlinks"
 
 [no_backlinks]
-other = "No backlinks found"
+other = "Nenhum backlink encontrado"
 
 [home]
-other = "Home"
+other = "Página Inicial"
 
 [light_mode]
 other = "Light Mode"
@@ -38,28 +38,28 @@ other = "Dark Mode"
 other = "Edit Source"
 
 [interactive_graph]
-other = "Interactive Graph"
+other = "Gráfico Interativo"
 
 [search]
-other = "Search"
+other = "Busca"
 
 [search_icon]
-other = "Search Icon"
+other = "Ícone de Busca"
 
 [icon_search]
-other = "Icon to open search"
+other = "Ícone para abrir busca"
 
 [recent_notes]
-other = "Recent Notes"
+other = "Notas Recentes"
 
 [first_3_notes]
-other = "first 3 {{ .notes }}"
+other = "3 primeiras {{ .notes }}"
 
 [search_for_something]
-other = "Search for something..."
+other = "Busque por algo..."
 
 [toc]
-other = "Table of Contents"
+other = "Tabela de Conteúdo"
 
 [copyright]
-other = "Made by {{ .name }} using <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>, © {{ .year }}"
+other = "Feito por {{ .name }} com <a href=\"https://github.com/jackyzha0/quartz\">Quartz</a>, © {{ .year }}"

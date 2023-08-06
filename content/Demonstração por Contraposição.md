@@ -18,6 +18,6 @@ $$
 x^2 = (2k + 1)^2 = 4k^2 + 4k + 1 = 2(2k^2 + 2k) + 1 \\\\
 \text{Se assumimos que } q = 2k^2 + 2k \text{, então } x^2 = 2q + 1 \\\\
 \text{Como sabemos que }k\text{ é par, } q \text{ é par.} \\\\
-\text{Portanto, } x^2 \text{ é ímpar }. \ \blacksquare
+\text{Logo, } x^2 \text{ é ímpar }. \blacksquare
 \end{gathered}
 $$
