@@ -1,5 +1,6 @@
 ---
 title: "Computador"
+alias: computadores
 tags: 
 - informática
 ---

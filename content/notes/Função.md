@@ -1,5 +1,6 @@
 ---
 title: "Função"
+alias: funções
 tags:
 - matemática
 ---

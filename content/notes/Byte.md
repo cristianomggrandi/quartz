@@ -1,5 +1,6 @@
 ---
 title: "Byte"
+alias: bytes
 tags:
 - informática
 ---

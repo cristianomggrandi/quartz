@@ -1,5 +1,6 @@
 ---
 title: "Bit"
+alias: bits
 tags:
 - informática
 ---

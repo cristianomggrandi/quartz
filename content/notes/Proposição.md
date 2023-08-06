@@ -1,5 +1,6 @@
 ---
 title: "Proposição"
+alias: proposições
 tags:
 - matemática
 - lógica

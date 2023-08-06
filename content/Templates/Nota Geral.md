@@ -1,5 +1,6 @@
 ---
 title: "{{title}}"
+alias: {{title}}s
 tags:
 - 
 ---

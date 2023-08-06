@@ -2,6 +2,7 @@
 title: "Teorema de Pitágoras"
 tags:
 - matemática
+- geometria
 ---
 # Teorema de Pitágoras
 

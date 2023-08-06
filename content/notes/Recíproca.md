@@ -1,5 +1,6 @@
 ---
 title: "Recíproca"
+alias: recíprocas
 tags:
 - matemática
 - lógica

@@ -1,5 +1,6 @@
 ---
 title: "Lema"
+alias: lemas
 tags:
 - matemática
 - lógica

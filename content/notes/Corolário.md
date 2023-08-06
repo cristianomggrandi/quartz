@@ -1,5 +1,6 @@
 ---
-title: "Corolários"
+title: "Corolário"
+alias: corolários
 tags:
 - matemática
 - lógica
