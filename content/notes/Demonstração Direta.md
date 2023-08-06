@@ -8,7 +8,7 @@ tags:
 
 Data: 04/08/2023
 
-[[Demonstração Direta]] é um tipo de [[Demonstração]] na qual, partindo da [[Hipótese]] e por meio da argumentação, chegamos à [[Tese]].
+[[notes/Demonstração Direta|Demonstração Direta]] é um tipo de [[notes/Demonstração|Demonstração]] na qual, partindo da [[Hipótese]] e por meio da argumentação, chegamos à [[Tese]].
 
 **Exemplo:** Seja $x$ um inteiro. Se $x$ é par, então $x^2$ é par.
 

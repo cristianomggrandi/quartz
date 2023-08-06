@@ -7,7 +7,7 @@ tags:
 
 Data: 05/08/2023
 
-**Definição:** Seja $C$ e $D$ dois conjuntos. Uma [[Função]] $f\colon D \to C$ é uma relação que associa a cada elemento $x$ do conjunto $D$ ([[Domínio]]), um [[Elemento]] $f(x)$ do conjunto $C$ ([[Contradomínio]]).
+**Definição:** Seja $C$ e $D$ dois conjuntos. Uma [[notes/Função|Função]] $f\colon D \to C$ é uma relação que associa a cada elemento $x$ do conjunto $D$ ([[Domínio]]), um [[Elemento]] $f(x)$ do conjunto $C$ ([[Contradomínio]]).
 
 Quando o domínio não for especificado, o domínio (natural) de $f$ é o [[Subconjunto]] de $\mathbb{R}$ de todos os valores para os quais ela estiver definida.
 
