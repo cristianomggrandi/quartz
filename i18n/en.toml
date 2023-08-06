@@ -23,7 +23,7 @@ other = "Tag"
 other = "Backlinks"
 
 [no_backlinks]
-other = ""
+other = "Esta nota não tem Backlink"
 
 [home]
 other = "Página Inicial"
