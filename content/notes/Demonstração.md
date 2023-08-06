@@ -1,5 +1,6 @@
 ---
 title: "Demonstração"
+alias: demonstrações
 tags:
 - matemática
 - lógica

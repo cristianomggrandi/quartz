@@ -1,5 +1,6 @@
 ---
 title: "Demonstração Direta"
+alias: demonstrações diretas
 tags:
 - matemática
 - lógica

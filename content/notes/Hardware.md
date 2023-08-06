@@ -1,5 +1,6 @@
 ---
 title: "Hardware"
+alias: hardwares
 tags:
 - informática
 ---

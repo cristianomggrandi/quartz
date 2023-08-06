@@ -1,5 +1,6 @@
 ---
 title: "Demonstração por Contradição"
+alias: demonstrações por contradição
 tags:
 - matemática
 - lógica

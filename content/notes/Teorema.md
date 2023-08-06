@@ -1,5 +1,6 @@
 ---
 title: "Teorema"
+alias: teoremas
 tags:
 - matemática
 - lógica

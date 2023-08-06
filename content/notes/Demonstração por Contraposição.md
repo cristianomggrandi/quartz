@@ -1,5 +1,6 @@
 ---
 title: "Demonstração por Contraposição"
+alias: demonstrações por contraposição
 tags:
 - matemática
 - lógica
