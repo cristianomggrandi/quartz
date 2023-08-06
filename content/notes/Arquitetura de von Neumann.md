@@ -8,11 +8,11 @@ tags:
 
 Data: 03/08/2023
 
-A [[Arquitetura de von Neumann]] é uma arquitetura de [[Máquina Digital]] que possui:
+A [[Arquitetura de von Neumann]] é uma arquitetura de máquina digital que possui:
 
-- Uma [[Memória]]
-- Uma [[Unidade Aritmética e Lógica]] (ALU)
-- Uma [[Unidade de Controle]] (CU)
+- Memória
+- Unidade Aritmética e Lógica (ALU)
+- Unidade de Controle (CU)
 
 ![Arquitetura de von Neumann|250](notes/Imagens/Arquitetura_de_von_Neumann.png)
 

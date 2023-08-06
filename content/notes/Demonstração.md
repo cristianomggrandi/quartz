@@ -8,7 +8,7 @@ tags:
 
 Data: 04/08/2023
 
-Em [[notes/Matemática|Matemática]], uma [[notes/Demonstração|Demonstração]] é uma prova da validade de um enunciado.
+Em [[notes/Matemática|Matemática]], uma demonstração é uma prova da validade de um enunciado.
 
 Existem alguns tipos de demonstrações:
 
