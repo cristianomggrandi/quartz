@@ -7,4 +7,4 @@ tags:
 
 Data: 03/08/2023
 
-A [[Matemática]] é construída a partir do modelo axiomático, que consiste em conceitos primitivos ([[Axioma]]) e afirmações básicas ([[Postulado]]) aceitos como verdadeiros. As [[Proposição|Proposições]] demonstradas a partir deles são chamadas [[Teorema|Teoremas]].
+A [[notes/Matemática|matemática]] é construída a partir do modelo axiomático, que consiste em conceitos primitivos ([[notes/Axioma|axiomas]]) e afirmações básicas ([[notes/Postulado|postulados]]) aceitos como verdadeiros. As [[notes/Proposição|proposições]] demonstradas a partir deles são chamadas [[notes/Teorema|teoremas]].

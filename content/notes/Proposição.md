@@ -8,7 +8,7 @@ tags:
 
 Data: 02/08/2023
 
-[[Proposição]] é uma oração afirmativa cujo valor é verdadeiro ou falso.
+Proposição é uma oração afirmativa cujo valor é verdadeiro ou falso.
 
 Proposição condicional ou implicativa é uma proposição que parte de uma premissa e sua conclusão depende dela para sua veracidade. Por exemplo:
 

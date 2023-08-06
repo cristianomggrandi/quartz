@@ -8,9 +8,9 @@ tags:
 
 Data: 04/08/2023
 
-Um [[notes/Corolário|Corolário]] é uma afirmação deduzida de uma verdade já demonstrada.
+Um corolário é uma afirmação deduzida de uma verdade já demonstrada.
 
-Um [[Teorema]] corolário é uma conclusão que pode ser tirada diretamente da demonstração de outros teoremas.
+Um [[notes/Teorema|teorema]] corolário é uma conclusão que pode ser tirada diretamente da [[notes/Demonstração|demonstração]] de outros teoremas.
 
 **Exemplo:**
 
