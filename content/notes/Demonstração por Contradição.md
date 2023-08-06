@@ -10,8 +10,6 @@ Data: 04/08/2023
 
 Uma [[notes/Demonstração por Contradição|Demonstração por Contradição]], ou por absurdo, utiliza do [[notes/Princípio do Terceiro Excluído|Princípio do Terceiro Excluído]] para descobrir a validade de uma afirmação. Para isso, assumimos ela como falsa e, caso cheguemos em algum absurdo, a afirmação é verdadeira.
 
-![[notes/Princípio do Terceiro Excluído#^de4010|Princípio do Terceiro Excluído]]
-
 **Exemplo:** Se $a$ e $b$ são números reais não negativos, então $\frac{a+b}{2} \ge \sqrt{ab}$.
 
 Supondo, por absurdo, que existam $a,b \in \mathbb{R}$, $a,b \geqslant 0$, tais que $\frac{a+b}{2} < \sqrt{ab}$, então
