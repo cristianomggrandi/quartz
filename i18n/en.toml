@@ -2,7 +2,7 @@
 other = "Hey! You look a little lost. This page doesn't exist (or may be private)."
 
 [404_back]
-other = "↳ Let's get you home."
+other = "↳ Voltar ao início."
 
 [all_posts]
 other = "All {{.Title}}"
