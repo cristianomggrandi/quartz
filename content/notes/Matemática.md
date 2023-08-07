@@ -1,5 +1,6 @@
 ---
 title: "Matemática"
+aliases: Matemático, Matemáticos, Matemáticas
 tags:
 - matemática
 ---
