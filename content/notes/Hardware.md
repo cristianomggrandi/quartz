@@ -3,6 +3,7 @@ title: "Hardware"
 alias: hardwares
 tags:
 - informática
+- hardware
 ---
 # Hardware
 
