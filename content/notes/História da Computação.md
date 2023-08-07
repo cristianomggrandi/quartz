@@ -29,7 +29,7 @@ loop:   add c, a, b
 
 Se o objetivo é facilitar e simplificar o desenvolvimento de programas, o próximo passo seria criar linguagens que se assemelhem cada vez mais à linguagem humana. Para isso, foram criadas as linguagens de alto nível. Elas necessitam de um compilador para gerar um código equivalente em linguagem de baixo nível. 
 
-```c {title="Alto nível ([[notes/C|C]])"}
+```c {title="Alto nível (C)"}
 for (int i = 0; i < 10; i++)
 	c = a + b
 ```
