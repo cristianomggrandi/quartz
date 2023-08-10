@@ -12,6 +12,8 @@ Em [[notes/Matemática|matemática]], uma função é uma associação dos eleme
 
 **Definição:** Seja $C$ e $D$ dois conjuntos. Uma função $f\colon D \to C$ é uma relação que associa a cada elemento $x$ do conjunto $D$ (domínio), um elemento $f(x)$ do conjunto $C$ (contradomínio).
 
+*Obs: Nem toda relação entre números são funções. (Ex.: $x^2 + y^2 = 16$)*
+
 ## Domínio e Contradomínio
 
 Quando o domínio não for especificado, o domínio (natural) de $f$ é o subconjunto de $\mathbb{R}$ de todos os valores para os quais ela estiver definida.
@@ -36,9 +38,6 @@ $$Im(f) = {f(x) \mid x \in D}$$
 ## Gráfico de Função
 
 O gráfico de $f$ é o conjunto dos pontos $(x,y)$ do plano cartesiano tais que $y = f(x)$.
-
-*Obs: Nem toda relação entre números são funções. 
-Exemplo: $x^2 + y^2 = 16$*
 
 ## Simetria
 
