@@ -4,6 +4,7 @@ aliases:
 - matrizes identidade
 tags:
 - matemática
+- matrizes
 ---
 # Matriz Identidade
 

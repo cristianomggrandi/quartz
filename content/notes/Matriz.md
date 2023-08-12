@@ -4,6 +4,7 @@ aliases:
 - matrizes
 - matricial
 tags:
+- matemática
 - matrizes
 ---
 # Matriz

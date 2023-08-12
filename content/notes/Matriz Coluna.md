@@ -4,6 +4,7 @@ aliases:
 - matrizes coluna
 tags:
 - matemática
+- matrizes
 ---
 # Matriz Coluna
 

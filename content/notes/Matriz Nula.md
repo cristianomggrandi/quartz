@@ -4,6 +4,7 @@ aliases:
 - matrizes nulas
 tags:
 - matemática
+- matrizes
 ---
 # Matriz Nula
 

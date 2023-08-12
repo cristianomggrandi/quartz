@@ -4,6 +4,7 @@ aliases:
 - matrizes quadradas
 tags:
 - matemática
+- matrizes
 ---
 # Matriz Quadrada
 
@@ -32,7 +33,7 @@ D. Principal =
 \begin{bmatrix}
 	\fbox{1} & 2 \\
 	-1 & \fbox{3}
-\end{bmatrix} \
+\end{bmatrix} \\\\
 D. Secundária =
 \begin{bmatrix}
 	1 & \fbox{2} \\
