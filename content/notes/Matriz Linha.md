@@ -4,6 +4,7 @@ aliases:
 - matrizes linha
 tags:
 - matemática
+- matrizes
 ---
 # Matriz Linha
 
