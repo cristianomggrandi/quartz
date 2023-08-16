@@ -53,6 +53,10 @@ C = A + B \\
 \end{gathered}
 $$
 
+### Subtração
+
+$A - B := A + (-1)B$
+
 ### Multiplicação
 
 #### Por Número Escalar
@@ -96,23 +100,31 @@ A =
 \
 B =
 \begin{bmatrix}
-	1 & -1 & 2 \\
-	2 & 0 & -3
+	1 & 0 & 3 \\
+	1 & -2 & 0 \\
+	1 & 0 & -4
 \end{bmatrix} \\\\
 [c_{11}] = 1 \cdot 1 + (-1) \cdot 1 + 2 \cdot 1 = 2
 \end{gathered}
 $$
 
+### Potenciação
+
+$$A^k := \underbrace{A \times A \times \cdot \cdot \cdot \times A}_{\text{k times}}$$
+
 ### Propriedades Operacionais
 
 Sendo $A$ e $B$ matrizes e $λ$ um número escalar, temos:
 
-| Propriedade                    | Operação                  |
-| ------------------------------ | ------------------------- |
-| Comutatividade                 | $A + B = B + A$             |
-| Associatividade                | $(A + B) + C = A + (B + C)$  |
-| ?                              | $A + 0 = A$                |
-| Distribuição do escalar        | $λ(A + B) = λA + λB$        |
-| Distribuição da matriz         | $A(λ_1 + λ_2) = λ_1A + λ_2A$ |
-| ?                              | $0 \cdot A = 0$            |
-| Associatividade multiplicativa | $(AB)C = A(BC)$            |
+| Propriedade                       | Operação                     |
+| --------------------------------- | ---------------------------- |
+| Comutatividade                    | $A + B = B + A$              |
+| Associatividade                   | $(A + B) + C = A + (B + C)$  |
+| ?                                 | $A + 0 = A$                  |
+| Distribuição do escalar           | $λ(A + B) = λA + λB$         |
+| Distribuição da matriz            | $A(λ_1 + λ_2) = λ_1A + λ_2A$ |
+| Distribuição de matriz por matriz | $A(B + C) = AB + AC$         |
+| ?                                 | $0 \cdot A = 0$              |
+| Associatividade multiplicativa    | $(AB)C = A(BC)$              |
+| Assoc. mult. por escalar          | $n(AB) = (nA)B$              |
+|                                   |                              |
