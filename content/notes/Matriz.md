@@ -127,4 +127,3 @@ Sendo $A$ e $B$ matrizes e $λ$ um número escalar, temos:
 | ?                                 | $0 \cdot A = 0$              |
 | Associatividade multiplicativa    | $(AB)C = A(BC)$              |
 | Assoc. mult. por escalar          | $n(AB) = (nA)B$              |
-|                                   |                              |

@@ -1,14 +1,14 @@
 ---
 title: "Matriz Transposta"
 aliases:
-- 
+- matrizes transpostas
 tags:
 - matemática
 - matrizes
 ---
 # Matriz Transposta
 
-A matriz transposta de $A_{m \times n}$, denotada por $A^t$, é uma matriz $B_{n \times m}$ tal que o elemento $B_{ij} = A_{ji}$.
+A [[notes/Matriz|matriz]] transposta de $A_{m \times n}$, denotada por $A^t$, é uma matriz $B_{n \times m}$ tal que o elemento $B_{ij} = A_{ji}$.
 
 $$A =
 \begin{bmatrix}
@@ -24,6 +24,10 @@ A^t = B =
 5 & 6
 \end{bmatrix}
 $$
+
+## Simetria
+
+A matriz quadrada $A_n$ é simétrica se $a_{ij} = a_{ji}$. Se $A$ é simétrica, então $A = A^t$.
 
 ## Propriedades de Trasposição
 
