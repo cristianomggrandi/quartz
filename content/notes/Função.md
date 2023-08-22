@@ -63,3 +63,7 @@ $$x_1 \ne x_2 \Rightarrow f(x_1) \ne f(x_2) \ \forall x_1, x_2 \in D$$
 ## Tipos de Funções
 
 - [[notes/Função Polinomial|Polinomial]]
+- [[notes/Função Raiz|Função Raiz]]
+- [[notes/Função Recíproca|Função Recíproca]]
+- [[notes/Função Racional|Função Racional]]
+- [[notes/Função Exponencial|Função Exponencial]]
