@@ -66,6 +66,71 @@ $$
 
 ## Conjunto Solução
 
-Um conjunto solução para um SEL é um conjunto de todas as soluções possíveis para este SEL.
+Um conjunto solução ($S$) para um SEL é um conjunto de todas as soluções possíveis para este SEL.
 
 Para solucionar um SEL, é possível utilizar a técnica do [[notes/Escalonamento|escalonamento]].
+
+## Tipos de SEL
+
+Um SEL pode ser de 3 tipos, dependendo do número de soluções que ele possui:
+
+- Impossível (0 soluções)
+
+O SEL é impossível se sua [[notes/Escalonamento|matriz escalonada]] possuir uma linha na forma
+
+$$[0  \cdot \cdot \cdot 0 | K], K \neq 0$$
+
+**Exemplo:**
+
+$$
+\left[
+\begin{array}{ccc|c}
+1 & 0 & -2 & 3 \\
+0 & 1 & 5 & 2 \\
+0 & 0 & 0 & \fbox{-4} \\
+\end{array}
+\right]
+$$
+
+- Possível e indeterminado (infinitas soluções)
+
+O SEL é possível e indeterminado se sua [[notes/Escalonamento|matriz escalonada]] possuir menos linhas nulas 
+
+**Exemplo:**
+
+$$
+\left[
+\begin{array}{cccc|c}
+1 & 3 & 0 & 2 & -5 \\
+0 & 0 & 1 & -3 & 2 \\
+0 & 0 & 0 & 0 & 0 \\
+\end{array}
+\right]
+$$
+
+Sendo $\alpha = y$ e $\beta = w$, $\alpha, \beta \in \mathbb{R}$, temos que:
+
+$$
+\begin{cases}
+x = -5 -3\alpha - 2\beta \\
+z = 2 + \beta
+\end{cases}
+$$
+
+$$
+S =
+\begin{cases}
+\begin{gather*}
+-5 -3\alpha - 2\beta \\
+\alpha \\
+2 + \beta \\
+\beta
+\end{gather*}
+\end{cases}
+$$
+
+- Possível e determinado (1 solução)
+
+## Sistemas Específicos
+
+- [[notes/Sistema Homogêneo|Sistema Homogêneo]]

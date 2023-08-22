@@ -1,5 +1,5 @@
 ---
-title: "Recíproca"
+title: "Proposição Recíproca"
 alias: recíprocas
 tags:
 - matemática

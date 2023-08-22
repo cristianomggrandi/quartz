@@ -28,7 +28,7 @@ O [[Teorema de Pitágoras]] é um exemplo de proposição.
 
 Existem proposições associadas a uma proposição condicional. Elas são:
 
-- [[Recíproca]]
+- [[notes/Proposição Recíproca|Proposição Recíproca]]
 - [[Contrapositiva]]
 
 ## Condição
