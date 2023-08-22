@@ -32,6 +32,7 @@ $$
 2 & -1
 \end{matrix}  
 \right]
+\cdot
 \left[ 
 \begin{matrix}
 x \\
