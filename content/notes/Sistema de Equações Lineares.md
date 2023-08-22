@@ -26,19 +26,25 @@ A representação [[notes/Matriz|matricial]] de um SEL é dada pelo produto dos 
 **Exemplo:**
 
 $$
-\begin{bmatrix}
+\left[
+\begin{matrix}
 1 & 3 \\
-2& -1
-\end{bmatrix}
-\begin{bmatrix}
+2 & -1
+\end{matrix}  
+\right]
+\left[ 
+\begin{matrix}
 x \\
 y
-\end{bmatrix}
+\end{matrix}  
+\right]
 =
-\begin{bmatrix}
+\left[ 
+\begin{matrix}
 2 \\
 0
-\end{bmatrix}
+\end{matrix}  
+\right]
 $$
 
 A matriz aumentada do SEL definido por $AX = B$ é definida por $[A|B]$
