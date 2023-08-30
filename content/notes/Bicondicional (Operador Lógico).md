@@ -5,6 +5,7 @@ aliases:
 - se somente se
 - se, somente se
 - se e somente se
+- se, e somente se
 tags:
 - lógica
 ---

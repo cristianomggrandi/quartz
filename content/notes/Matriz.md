@@ -37,6 +37,11 @@ $$
 - [[notes/Matriz Quadrada#Matriz Triangular|Matriz triangular]]
 - [[notes/Matriz Identidade|Matriz identidade]]
 
+## Matrizes Relacionadas
+
+- [[notes/Matriz Transposta|Matriz transposta]]
+- [[notes/Matriz Inversa|Matriz inversa]]
+
 ## Operações com Matrizes
 
 ### Adição
