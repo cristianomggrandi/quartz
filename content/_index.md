@@ -1,5 +1,5 @@
 ---
-title: "Meu Segundo Cérebro"
+title: "Notas"
 enableFooter: false
 ---
 # Comece por aqui
