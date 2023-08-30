@@ -1,6 +1,9 @@
 ---
 title: "Proposição Recíproca"
-alias: recíprocas
+aliases:
+- recíprocas
+- oposta
+- conversa
 tags:
 - matemática
 - lógica
@@ -9,6 +12,6 @@ tags:
 
 Date: 03/08/2023
 
-A recíproca de uma [[notes/Proposição|proposição]] é outra proposição com a premissa e conclusão trocadas. Sua validade independe da proposição original.
+A recíproca (oposta ou conversa) de uma [[notes/Proposição|proposição]] é outra proposição com a premissa e conclusão trocadas. Sua validade independe da proposição original.
 
 A recíproca de $P$ $\Rightarrow$ $Q$ é $Q$ $\Rightarrow$ $P$

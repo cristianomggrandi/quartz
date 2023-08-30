@@ -18,7 +18,7 @@ Para realizá-la, dispomos das operações elementares:
 - Multiplicação por escalar não nulo
 $$L_j \to K \cdot L_j$$
 - Troca de linhas
-$$L_j \iff L_i$$
+$$L_j \leftrightarrow L_i$$
 - Soma de linhas
 $$L_j \to L_j + K \cdot L_i$$
 

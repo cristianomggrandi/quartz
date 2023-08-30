@@ -28,8 +28,10 @@ O [[Teorema de Pitágoras]] é um exemplo de proposição.
 
 Existem proposições associadas a uma proposição condicional. Elas são:
 
-- [[notes/Proposição Recíproca|Proposição Recíproca]]
+- [[notes/Proposição Recíproca|Recíproca]]
 - [[Contrapositiva]]
+- Oposta
+- Inversa
 
 ## Condição
 
@@ -40,7 +42,11 @@ Proposições condicionais podem ser divididas em dois grupos:
 Uma condição é suficiente quando ela serve para cumprir o objetivo, mas não necessariamente é o único método para atingi-lo.
 **Exemplo:** Para andar de ônibus, é suficiente que você tenha dinheiro.
 
-- Necessária ($p \iff q$)
+- Necessária ($p \implies q$)
 
-Uma condição é necessária quando ela deve ser verdadeira para cumprir o objetivo e ele é inalcançável sem ela.
+Nesse caso, $q$ é necessário para $p$.
+
+- Suficiente e Necessária ($p \iff q$)
+
+Uma condição é suficiente e necessária quando ela deve ser verdadeira para cumprir o objetivo e ele é inalcançável sem ela.
 **Exemplo:** Para se candidatar à presidência, é necessário ter no mínimo 35 anos de idade.

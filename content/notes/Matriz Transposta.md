@@ -2,6 +2,7 @@
 title: "Matriz Transposta"
 aliases:
 - matrizes transpostas
+- transposta
 tags:
 - matemática
 - matrizes

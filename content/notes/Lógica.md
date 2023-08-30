@@ -16,8 +16,9 @@ Na [[notes/Matemática|Matemática]], lógica é a subárea que explora aplicaç
 |:---------------:|:----------:|
 |        e        |  $\land$   |
 |       ou        |   $\lor$   |
+|  ou exclusivo   |  $\oplus$  |
 |       não       |  $\lnot$   |
-|    se então     | $\implies$ |
+|    se então     | $\implies$ | 
 | se e somente se |   $\iff$   |
 
 ## Tabela Verdade
