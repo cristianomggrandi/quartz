@@ -1,9 +1,10 @@
 ---
-title: "Matriz Inversa"
+title: Matriz Inversa
 aliases:
-- matrizes inversas
+  - matrizes inversas
+  - invertível
 tags:
-- matemática
+  - matemática
 ---
 # Matriz Inversa
 

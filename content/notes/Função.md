@@ -1,8 +1,9 @@
 ---
-title: "Função"
-alias: funções
+title: Função
+aliases:
+  - funções
 tags:
-- matemática
+  - matemática
 ---
 # Função
 
@@ -67,3 +68,37 @@ $$x_1 \ne x_2 \Rightarrow f(x_1) \ne f(x_2) \ \forall x_1, x_2 \in D$$
 - [[notes/Função Recíproca|Função Recíproca]]
 - [[notes/Função Racional|Função Racional]]
 - [[notes/Função Exponencial|Função Exponencial]]
+- [[notes/Função Trigonométrica|Funções Trigonométricas]]
+- [[notes/Função Composta|Função Composta]]
+
+
+## Transformações de Funções
+
+- Reflexão no eixo $y$:
+$$f(x) \to f(-x)$$
+- Reflexão no eixo $x$:
+$$f(x) \to -f(x)$$
+- Translação horizontal:
+$$f(x) \to f(x + a)$$
+$$
+\begin{cases}
+\begin{gather*}
+a > 0, \text{ translada para a esquerda} \\
+a < 0, \text{ translada para a direita}
+\end{gather*}
+\end{cases}
+$$
+- Translação vertical:
+$$f(x) \to f(x) + a$$
+$$
+\begin{cases}
+\begin{gather*}
+a > 0, \text{ translada para a cima} \\
+a < 0, \text{ translada para a baixo}
+\end{gather*}
+\end{cases}
+$$
+- Mudança de escala horizontal:
+$$f(x) \to f(ax)$$
+- Mudança de escala vertical:
+$$f(x) \to f(x) \cdot a$$
