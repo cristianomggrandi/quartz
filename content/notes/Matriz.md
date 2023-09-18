@@ -85,8 +85,6 @@ C_{m \times n} = A_{m \times k} \times B_{k \times n} \\
 \end{gathered}
 $$
 
-
-**Exemplo:**
 Sejam A e B duas matrizes de ordem $m$ por $n$. A multiplicação de $A \cdot B$ é o resultado da seguinte expressão:
 
 $$
@@ -94,7 +92,6 @@ $$
 $$
 
 **Exemplo:**
-
 $$
 \begin{gathered}
 A =
@@ -115,7 +112,7 @@ $$
 
 ### Potenciação
 
-$$A^k := \underbrace{A \times A \times \cdot \cdot \cdot \times A}_{\text{k times}}$$
+$$A^k := \underbrace{A \times A \times \cdot \cdot \cdot \times A}_{\text{k vezes}}$$
 
 ### Propriedades Operacionais
 
@@ -132,3 +129,7 @@ Sendo $A$ e $B$ matrizes e $λ$ um número escalar, temos:
 | ?                                 | $0 \cdot A = 0$              |
 | Associatividade multiplicativa    | $(AB)C = A(BC)$              |
 | Assoc. mult. por escalar          | $n(AB) = (nA)B$              |
+
+## Determinante
+
+Toda matriz possui um [[notes/Determinante|determinante]], que, entre outras coisas, permite definir se há uma matriz inversa.
