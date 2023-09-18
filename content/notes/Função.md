@@ -70,6 +70,7 @@ $$x_1 \ne x_2 \Rightarrow f(x_1) \ne f(x_2) \ \forall x_1, x_2 \in D$$
 - [[notes/Função Exponencial|Função Exponencial]]
 - [[notes/Função Trigonométrica|Funções Trigonométricas]]
 - [[notes/Função Composta|Função Composta]]
+- [[notes/Função Modular|Função Modular]]
 
 
 ## Transformações de Funções
