@@ -71,6 +71,7 @@ $$x_1 \ne x_2 \Rightarrow f(x_1) \ne f(x_2) \ \forall x_1, x_2 \in D$$
 - [[notes/Função Trigonométrica|Funções Trigonométricas]]
 - [[notes/Função Composta|Função Composta]]
 - [[notes/Função Modular|Função Modular]]
+- [[notes/Função Logarítmica|Função Logarítmica]]
 
 
 ## Transformações de Funções
@@ -103,3 +104,28 @@ $$
 $$f(x) \to f(ax)$$
 - Mudança de escala vertical:
 $$f(x) \to f(x) \cdot a$$
+
+## Função Inversa
+
+Em alguns casos, dada $f(x): D \to C$, podemos definir uma função $g(x): C \to D$ tal que
+
+$$g(f(x)) = x, \forall x \in D$$
+$$f(g(y)) = y, \forall y \in D$$
+
+Quando existe tal função, dizemos que $g$ é inversa de $f$.
+
+### Condição para Inversa
+
+Para uma função ter inversa, ela deve ser bijetora (injetora e sobrejetora).
+
+Quando $f$ é bijetora, existe $f^{-1}$ e ela é única.
+
+Injetora: Elementos distintos de $D$ devem ser levados por $f$ em elementos distintos de $C$.
+
+Sobrejetora: Todo elemento de $C$ é a imagem de algum elemento do domínio $D$.
+
+### Gráfico da Inversa
+
+Dada uma função $f(x)$, se $y = f(x)$ o ponto $(x, y)$ pertence ao gráfico de $f$. No caso da inversa, como $f^{-1} = x$, o ponto $(y,x)$ pertence ao gráfico de $f^{-1}$.
+
+Há uma reflexão pela reta que passa pelo 1º e 3º quadrante ($y = x$).

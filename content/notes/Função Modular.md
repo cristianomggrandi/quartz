@@ -7,7 +7,7 @@ tags:
 ---
 # Função Modular
 
-Dado o nímero real $x$, definimos o valor absoluto de $x$, ou módulo de x, como:
+Uma [[notes/Função|função]] modular é uma função na qual, dado o nímero real $x$, definimos o valor absoluto de $x$, ou módulo de x, como:
 
 $$\vert x \vert = 
 \begin{cases}
