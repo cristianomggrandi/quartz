@@ -95,8 +95,8 @@ $$f(x) \to f(x) + a$$
 $$
 \begin{cases}
 \begin{gather*}
-a > 0, \text{ translada para a cima} \\
-a < 0, \text{ translada para a baixo}
+a > 0, \text{ translada para cima} \\
+a < 0, \text{ translada para baixo}
 \end{gather*}
 \end{cases}
 $$
