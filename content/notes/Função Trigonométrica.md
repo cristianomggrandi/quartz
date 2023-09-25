@@ -14,6 +14,14 @@ Elas são:
 - [[notes/Seno|Seno]]
 - [[notes/Cosseno|Cosseno]]
 - [[notes/Tangente|Tangente]]
+- [[notes/Cossecante|Cossecante]]
+- [[notes/Secante|Secante]]
+- [[notes/Cotangente|Cotangente]]
+
+## Inversas
+
+As funções trigonométricas possuem também inversas.
+
 - Arcosseno
 - Arcocosseno
 - Arcotangente
