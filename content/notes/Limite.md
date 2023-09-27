@@ -35,7 +35,7 @@ Se $f(x)$ e $g(x)$ são duas funções tais que $\lim_{x \to a} f(x)$ e $\lim_{x
 
 ## Teoremas
 
-- Teorema do Sanduíche (ou do Confronto)
+- [[notes/Teorema do Sanduíche|Teorema do Sanduíche (ou do Confronto)]]
 
 ## Limite Lateral
 
@@ -44,7 +44,7 @@ A função $f$ não possui limite quando $x \to 0$.
 $$
 \begin{cases}
 \begin{gather*}
-- 2x, \text{ se } x< 0\\
+-2x, \text{ se } x < 0\\
 x^2, \text{ se } x \geq 0
 \end{gather*}
 \end{cases}
