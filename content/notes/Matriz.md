@@ -132,4 +132,4 @@ Sendo $A$ e $B$ matrizes e $λ$ um número escalar, temos:
 
 ## Determinante
 
-Toda matriz possui um [[notes/Determinante|determinante]], que, entre outras coisas, permite definir se há uma matriz inversa.
+Toda matriz possui um [[notes/Determinante|determinante]], que, entre outras coisas, permite definir se há uma [[notes/Matriz Inversa|matriz inversa]].

@@ -38,7 +38,7 @@ $$\vert 2x - 5 \vert - \vert x - 2 \vert = 3x + 1$$
 
 Como $1 \notin [2, \frac{5}{2})$ e $-2 \notin [-\frac{5}{2}, \infty)$, então
 
-$$S = \left\{\frac{1}{2}\right\}$$
+$$S = \{\frac{1}{2}\}$$
 
 ## Inequação Modular
 
@@ -52,7 +52,9 @@ $$\vert 4x^2 - 1 \vert \leq x + 2$$
 
 $-x - 2 \leq 4x^2 - 1 \leq x + 2$
 
-$4x^2 - 1 \geq -x - 2 \iff 4x^2 + x + 1 \geq 0$. Como não há raízes e $x$ é sempre maior que 0, $S = \mathbb{R}$.
+$4x^2 - 1 \geq -x - 2 \iff 4x^2 + x + 1 \geq 0$.
+
+Como não há raízes e $x$ é sempre maior que 0, $S = \mathbb{R}$.
 
 $4x^2 - 1 \leq x + 2 \iff 4x^2 - x - 3 \geq 0$. As raízes são $1$ e $-\frac{3}{4}$. Como $a > 0$, $S = [-\frac{3}{4}, 1]$.
 
