@@ -38,7 +38,7 @@ $$\vert 2x - 5 \vert - \vert x - 2 \vert = 3x + 1$$
 
 Como $1 \notin [2, \frac{5}{2})$ e $-2 \notin [-\frac{5}{2}, \infty)$, então
 
-$$S = \{\frac{1}{2}\}$$
+$$x = \frac{1}{2}$$
 
 ## Inequação Modular
 
@@ -60,7 +60,7 @@ $4x^2 - 1 \leq x + 2 \iff 4x^2 - x - 3 \geq 0$. As raízes são $1$ e $-\frac{3}
 
 A solução será a intercessão dos conjuntos.
 
-$$x \in \mathbb{R} \cap \left[ -\frac{3}{4}, 1 \right] = \left[ -\frac{3}{4}, 1 \right]$$
+$$S = \mathbb{R} \cap \left[ -\frac{3}{4}, 1 \right] = \left[ -\frac{3}{4}, 1 \right]$$
 
 **Exemplo 2:**
 
@@ -79,4 +79,4 @@ Se $x > 3$, $-4x - 1 \geq x - 2 \iff x \leq \frac{1}{5}$. Então $\varnothing$.
 
 A solução será a união dos conjuntos.
 
-$$x \in \varnothing \cup \left[ -1, -\frac{3}{4} \right] \cup \left[ \frac{2}{5}, 1 \right] = \left[ -1, 1 \right]$$
+$$S = \varnothing \cup \left[ -1, \frac{2}{5} \right] \cup \left[ \frac{2}{5}, 1 \right] = \left[ -1, 1 \right]$$
