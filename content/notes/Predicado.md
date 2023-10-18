@@ -41,11 +41,11 @@ Para denotar que cada elemento no conjunto verdade de $P(x)$ está no conjunto v
 
 Considere $D: \mathbb{Z}^+$ e as seguintes proposições:
 
-|           Proposição            | Conj. Verdade |
-|:-------------------------------:|:-------------:|
-| P(x): x \text{ é um fator de 8} | {1, 2, 4, 8}  |
-| Q(x): x \text{ é um fator de 4} |   {1, 2, 4}   |
-| R(x): x < 5 \text{ e } x \neq 3 |   {1, 2, 4}   |
+|         Proposição         | Conj. Verdade |
+|:--------------------------:|:-------------:|
+| $P(x): x$ é um fator de 8  | {1, 2, 4, 8}  |
+| $Q(x): x$ é um fator de 4  |   {1, 2, 4}   |
+| $R(x): x < 5$ e $x \neq 3$ |   {1, 2, 4}   |
 
 Podemos afirmar que:
 
