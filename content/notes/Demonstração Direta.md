@@ -1,15 +1,20 @@
 ---
-title: "Demonstração Direta"
-alias: demonstrações diretas
+title: Demonstração Direta
+aliases:
+  - demonstrações diretas
+  - prova direta
+  - provas diretas
 tags:
-- matemática
-- lógica
+  - matemática
+  - lógica
 ---
 # Demonstração Direta
 
 Data: 04/08/2023
 
 Demonstração direta é um tipo de [[notes/Demonstração|demonstração]] na qual, partindo da hipótese e por meio da argumentação, chegamos à tese.
+
+Supondo que $\forall x \in D: P(x) \implies Q(x)$, prove que $Q(x)$ se $P(x)$.
 
 **Exemplo:** Seja $x$ um inteiro. Se $x$ é par, então $x^2$ é par.
 
