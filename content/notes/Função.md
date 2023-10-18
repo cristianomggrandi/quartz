@@ -23,7 +23,7 @@ Quando o domínio não for especificado, o domínio (natural) de $f$ é o subcon
 $$f(x) = \frac{1}{1-x}$$
 
 Seu domínio $D$ pode ser descrito da segunte forma:
-$$D = \mathbb{R} \setminus \{-1, 1\} = (-\infty, -1)\cup(-1, 1)\cup(1, \infty)$$
+$$D = \mathbb{R} \setminus \lbrace-1, 1\rbrace = (-\infty, -1)\cup(-1, 1)\cup(1, \infty)$$
 
 ## Imagem
 

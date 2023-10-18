@@ -21,7 +21,7 @@ O predicado é uma [[notes/Função|função]] de uma ou mais variáveis que se 
 
 Se $P(x)$ é um predicado e $x$ tem domínio $D$, o conjunto verdade de $P(x)$ é o conjunto de todos os elementos de $D$ que fazem $P(x)$ verdadeiro quando substituído por $x$. O conjunto veradde de $P(x)$ é denotado por:
 
-$$\{x \in D \mid P(x)\}$$
+$$\lbrace x \in D \mid P(x)\rbrace$$
 
 **Exemplo:**
 
@@ -29,7 +29,7 @@ $$
 \begin{gathered}
 P(x) = x \text{ é um fator de 8}\\
 D: \mathbb{N}\\
-\text{Conjunto verdade: } \{1, 2, 4, 8\}
+\text{Conjunto verdade: } \lbrace1, 2, 4, 8\rbrace
 \end{gathered}
 $$
 

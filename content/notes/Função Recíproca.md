@@ -15,14 +15,14 @@ $$n \in \mathbb{Z}, n \neq 1$$
 
 ## Propriedades
 
-- Domínio: $\mathbb{R} \setminus \{0\}$
+- Domínio: $\mathbb{R} \setminus \lbrace0\rbrace$
 
 - Imagem:
 $$
 \begin{cases}
 \begin{gather*}
 \mathbb{R^+_\ast}, \text{ Se } n \text{ é par} \\
-\mathbb{R} \setminus \{0\}, \text{ Se } n \text{ é ímpar} \\
+\mathbb{R} \setminus \lbrace0\rbrace, \text{ Se } n \text{ é ímpar} \\
 \end{gather*}
 \end{cases}
 $$

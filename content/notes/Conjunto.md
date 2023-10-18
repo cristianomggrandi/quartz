@@ -9,7 +9,7 @@ tags:
 
 Um conjunto é uma adição contável de elementos.
 
-**Exemplo:** $A = \{0, 1, 2, 5\}$
+**Exemplo:** $A = \lbrace0, 1, 2, 5\rbrace$
 
 ## Relações de Conjuntos
 
@@ -51,9 +51,9 @@ $P(A)$: Todos os subconjuntos de $A$ mais $\varnothing$.
 
 **Exemplo:**
 
-$A = \{1, 2, 3, 4\}$
+$A = \lbrace1, 2, 3, 4\rbrace$
 
-$P(A) = \{\varnothing, 1, 2, 3, 4, (1, 2), (1, 3), (1, 4), (2, 3), (2, 4), (3, 4), (1, 2, 3), (1, 2, 4), (1, 3, 4), (2, 3, 4), (1, 2, 3, 4)\}$
+$P(A) = \lbrace\varnothing, 1, 2, 3, 4, (1, 2), (1, 3), (1, 4), (2, 3), (2, 4), (3, 4), (1, 2, 3), (1, 2, 4), (1, 3, 4), (2, 3, 4), (1, 2, 3, 4)\rbrace$
 
 ## Contagens
 
