@@ -6,6 +6,7 @@ tags:
   - matemática
   - lógica
 ---
+
 # Predicado
 
 Em [[notes/Lógica|lógica]], se obtém um predicado ao retirar o sujeito da [[notes/Proposição|proposição]]. É uma sentença que contém um número finito de variáveis e se torna uma proposição quando variáveis são substituídas por valores específicos.
