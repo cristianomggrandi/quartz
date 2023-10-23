@@ -60,7 +60,8 @@ $$\sum_{i = 1}^{n_o} i^2 = n_o^2 = \frac{n_o(n_o + 1)(2n_o + 1)}{6} = \frac{1(1 
 
 - Passo Indutivo:
 
-$$\text{Supondo } \sum_{i = 1}^{k} i^2 = \frac{k(k + 1)(2k + 1)}{6}, \text{ queremos provar } \sum_{i = 1}^{k + 1} i^2 = \frac{(k + 1)(k + 2)(2k + 3)}{6}$$
+$$\text{Supondo } \sum_{i = 1}^{k} i^2 = \frac{k(k + 1)(2k + 1)}{6}$$
+$$\text{Queremos provar } \sum_{i = 1}^{k + 1} i^2 = \frac{(k + 1)(k + 2)(2k + 3)}{6}$$
 $$\sum_{i = 1}^{k + 1} i^2 = 1^2 + 2^2 + 3^2 + \cdots + k^2 + (k + 1)^2$$
 $$\sum_{i = 1}^{k} i^2 + (k + 1)^2$$
 $$\frac{k(k + 1)(2k + 1)}{6} + (k + 1)^2$$
