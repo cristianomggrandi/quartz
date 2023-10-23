@@ -153,6 +153,7 @@ v_1 & v_2 & v_3
 =
 (u_2v_3 - u_3v_2) \vec i - (u_1v_3 - u_3v_1) \vec j + (u_1v_2 - u_2v_1) \vec k
 $$
+
 $$\vec u \times \vec v = (u_2v_3 - u_3v_2, - (u_1v_3 - u_3v_1), u_1v_2 - u_2v_1)$$
 
 #### Interpretação Geométrica
