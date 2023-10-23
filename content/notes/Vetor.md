@@ -143,13 +143,13 @@ Sejam $\vec u, \vec v \in \mathbb{R}^3$. O produto vetorial é denotado por $\ve
 
 As coordenadas do vetor $\vec u \times \vec v$ são dadas por:
 
-$$\det \left(
-\begin{matrix}
+$$\det (
+\begin{bmatrix}
 \vec i & \vec j & \vec k \\
 u_1 & u_2 & u_3 \\
 v_1 & v_2 & v_3
-\end{matrix}
-\right)
+\end{bmatrix}
+)
 =
 (u_2v_3 - u_3v_2) \vec i - (u_1v_3 - u_3v_1) \vec j + (u_1v_2 - u_2v_1) \vec k
 $$
@@ -165,7 +165,7 @@ $$Área = \Vert \vec u \times \vec v \Vert$$
 
 A projeção ortogonal ($\vec w$) de $\vec u$ na direção de $\vec v$ é a "sombra" de $\vec u$ em $\vec v$.
 
-$$\vec w = proj_\vec v \vec u = K \vec v = \frac{\langle \vec u, \vec v \rangle}{\Vert \vec v \Vert^2} \cdot \vec v$$
+$$\vec w = proj_{\vec v} \vec u = K \vec v = \frac{\langle \vec u, \vec v \rangle}{\Vert \vec v \Vert^2} \cdot \vec v$$
 
 **Prova:**
 
@@ -175,4 +175,4 @@ $$\vert K \vert = \frac{\vert \vec u \cdot \vec v \vert}{\Vert \vec v \Vert^2} \
 
 Logo:
 
-$$proj_\vec v \vec u = \frac{\langle \vec u, \vec v \rangle}{\Vert \vec v \Vert^2} \cdot \vec v$$
+$$proj_{\vec v} \vec u = \frac{\langle \vec u, \vec v \rangle}{\Vert \vec v \Vert^2} \cdot \vec v$$
