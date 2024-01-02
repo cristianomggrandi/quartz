@@ -23,7 +23,7 @@ $$r = (1, -3) + t(1, 5)$$
 $$r = (1 + t, -3 + 5t)$$
 
 $$
-\text{Equação pramétrica: } 
+\text{Equação paramétrica: } 
 \begin{cases}
 \begin{gather*}
 x = 1 + t \\
