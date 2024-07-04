@@ -98,3 +98,84 @@ Criado o registro no RENACH o candidato terá seu processo de habilitação ativ
 5. Prática de direção veicular
    Necessário possuir seu documento de identidade e Licença de Aprendizagem de Direção Veicular (LADV)
 6. Exame de diração veicular
+
+## Habilitação
+
+### Categorias
+
+Tipo de veículo que cada habilitação nos possibilita conduzir
+
+Para adicionar uma categoria de troca (C, D e E), são necessários:
+- Exame médico
+- Exame psicotécnico
+- Exame toxicológico
+- 20 horas/aula
+- Exame prático
+
+#### ACC - Autorização para Conduzir Ciclomotores
+
+Veículo automotor de 2 ou 3 rodas, cuja cilindrada não exceda a 50cm³, ou elétrico com máximo de 4kW, e velocidade máxima de 50Km/h.
+
+#### Categoria A
+
+Veículo motorizado de 2 ou 3 rodas, com ou sem carro lateral.
+Exame deve ser realizado com cilindrada acima de 120cc.
+
+#### Categoria B
+
+Veículo motorizado não abrangido pela categoria A, cujo peso bruto não exceda 3500kg e cuja lotação não exceda 8 lugares excluído o do motorista.
+São autorizados também a conduzir motor-casa de até 6000kg.
+
+#### Categoria C
+
+Condutor de veículo abrangido pela categoria B e de veículo motorizado utilizado em transporte de carga cujo peso bruto exceda 3500kg.
+Para obter a categoria C, é necessário que o condutor tenha a categoria B há 1 ano e não ter cometido mais de uma infração gravíssima nos últimos 12 meses.
+
+#### Categoria D
+
+Condutor de veículo abrangido pela categoria B e C e de veículo motorizado utilizado no transporte de passageiros cuja lotação exceda 8 lugares excluído o do motorista.
+Exame deve ser realizado com veículo de no mínimo 20 lugares.
+Necessário que o condutor seja maior de 21 anos, estar habilitado há 2 anos na categoria B ou 1 ano na categoria C e não ter cometido mais de uma infração gravíssima nos últimos 12 meses.
+
+#### Categoria E
+
+Condutor de combinação de veículos em qua a unidade tratora se enquadre nas categorias B, C ou D, cuja unidade acoplada, reboque, semirreboque, trailer ou articulada tenha 6000kg ou mais de peso bruto total, ou cuja lotação exceda mais de 8 lugares.
+Necessário que o condutor seja maior de 21 anos, estar habilitado há 1 ano na categoria C e não ter cometido mais de uma infração gravíssima nos últimos 12 meses.
+
+#### Observação Sobre Combinação de Veículos
+
+Condutores de categorias B, C e D **podem** conduzir combinação de veículos cuja unidade acoplada, reboque, semirreboque, trailer ou articulada tenha menos de 6000kg de peso bruto total e cuja lotação não exceda 8 lugares.
+
+### Classificações
+
+#### Quanto à Tração
+
+Modo de propulsão do veículo.
+
+- Automotor
+- Propulsão humana
+- Tração animal
+- Reboque
+- Semirreboque
+
+#### Quanto à Espécie
+
+Finalidade de utilização do veículo.
+
+- De passageiros
+- De carga
+- Misto
+- De tração
+- De competição
+- Especial
+- De coleção
+
+#### Quanto à Categoria
+
+Destinação do veículo (quem o utiliza).
+
+- Particular
+- De aluguel
+- De aprendizagem
+- Oficial
+- Representação diplomática
