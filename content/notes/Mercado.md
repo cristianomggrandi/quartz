@@ -15,6 +15,8 @@ Só se é possível definir um preço sociavelmente ótimo se houver uma concorr
 
 Estrutura da concorrência perfeita: muitos vendedores e muitos compradores.
 
+Na concorrência perfeita, maximizar o lucro é equivalente a minimizar o custo.
+
 ## Monopólio
 
 Oposto de uma concorrência perfeita.
