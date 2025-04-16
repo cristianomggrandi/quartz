@@ -17,13 +17,13 @@ tags:
 
 Concílio com 150 bispos orientais e somente 2 ocidentais, ou seja, era opinião comum.
 
- > “Está é a fé dos Padres! Está é a fé dos apóstolos! Devemos crê-la! Seja anátema quem não crê**! Pedro nos fala por meio de Leão**… está é a verdadeira fé!” **(Concilio de Calcedônia, Atas do Concilio, Sessão 2.)**
+> “Está é a fé dos Padres! Está é a fé dos apóstolos! Devemos crê-la! Seja anátema quem não crê**! Pedro nos fala por meio de Leão**… está é a verdadeira fé!” **(Concilio de Calcedônia, Atas do Concilio, Sessão 2.)**
 
 ## Tertuliano (160 - 240)
 
 ### Atestado de Pedro ser a Rocha e também de que nada foi escondido dos Apóstolos
 
-> “Que homem, em sã consciência pode supor que possivelmente eles eram ignorantes em qualquer coisa, os quais o Senhor ordenou a serem mestres (ou professores), mantê-los, como ele fez, inseparáveis (de si mesmo) em sua presença, em seu discipulado, em sua sociedade, a quem, “quando estavam sozinhos, Ele costumava expor” todas as coisas que eram obscuras, dizendo-lhes que “a eles foi dado saber os mistérios”, o que não era permitido que as pessoas compreendessem? **Nada foi retido do conhecimento de Pedro, que é chamado de “A Rocha em que a Igreja deveria ser construída”  que também obtiteve “as chaves do reino dos céus” , com o poder de “ligar e desligar no céu e sobre a terra’”?**[7]
+> “Que homem, em sã consciência pode supor que possivelmente eles eram ignorantes em qualquer coisa, os quais o Senhor ordenou a serem mestres (ou professores), mantê-los, como ele fez, inseparáveis (de si mesmo) em sua presença, em seu discipulado, em sua sociedade, a quem, “quando estavam sozinhos, Ele costumava expor” todas as coisas que eram obscuras, dizendo-lhes que “a eles foi dado saber os mistérios”, o que não era permitido que as pessoas compreendessem? **Nada foi retido do conhecimento de Pedro, que é chamado de “A Rocha em que a Igreja deveria ser construída”  que também obtiteve “as chaves do reino dos céus” , com o poder de “ligar e desligar no céu e sobre a terra’”?**
 
 ### Autoridade vem de Roma
 
