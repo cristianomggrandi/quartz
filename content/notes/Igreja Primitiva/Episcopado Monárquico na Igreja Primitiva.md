@@ -11,7 +11,7 @@ tags:
 
 ## Santo Inácio de Antioquia
 
-[[notes/Santo Inácio De Antioquia|Santo Inácio De Antioquia]]
+[[Santo Inácio De Antioquia|Santo Inácio De Antioquia]]
 
 ### O Bispo
 

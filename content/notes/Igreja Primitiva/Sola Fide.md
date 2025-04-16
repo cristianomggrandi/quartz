@@ -14,7 +14,7 @@ Sola Fide é a doutrina que afirma que a salvação eterna é fruto somente da f
 
 > _“Vigiai sobre a vossa vida; não deixai que vossas lâmpadas se apaguem, nem afrouxai vossos cintos. Ao contrário, estai preparados porque não sabeis a hora em que virá o Senhor. Reuni-vos frequentemente, procurando o que convém a vossas almas; porque de nada vos servirá todo o tempo da vossa fé se não fores perfeitos no último momento” (Didaqué 16,1-2).[1]_
 
-## [[notes/São Clemente Romano|São Clemente de Roma]]
+## [[São Clemente Romano|São Clemente de Roma]]
 
 Clemente tem sido frequentemente citado por apologistas protestantes como partidário da doutrina da “Sola Fides”, em razão do seguinte texto:
 
@@ -38,13 +38,13 @@ No entanto, em outros textos, Clemente fala como os profetas foram declarados ju
 
 > _“Somos felizes, caríssimos, se tivermos cumprido os mandamentos de Deus na concórdia da caridade, a fim de que, pela caridade, sejam perdoados os nossos pecados” (1ª Carta aos Coríntios 50,5)._
 
-[[notes/São Policarpo de Esmirna|São Policarpo de Esmirna]]
+[[São Policarpo de Esmirna|São Policarpo de Esmirna]]
 
 Conserva-se uma carta dirigida à igreja de Filipos, na qual estabelece como condição para se salvar não apenas a fé mas ainda o cabal cumprimento da vontade de Deus e a obediência aos mandamentos:
 
 > _“Por isso, cingi vossos rins e servi a Deus no temor e na verdade, abandonando as palavras vãs e o erro das multidões, crendo n’Aquele que ressuscitou nosso Senhor Jesus Cristo dentre os mortos e lhe deu glória e assento à sua direita. A Ele foram submetidas todas as coisas, as do céu e as da terra. A Ele rendei adoração com todo alento. Ele há de vir como juiz dos vivos e dos mortos e Deus pedirá contas daqueles que não querem obedecê-lo. Pois bem: Ele que O ressuscitou dentre os mortos também nos ressuscitará, desde que cumpramos sua vontade, caminhemos em seus mandamentos e amemos o que Ele amou, distantes de toda iniquidade, defraudação, apego ao dinheiro, maledicência, falso testemunho; não retribuindo mal por mal, nem injúria por injúria, nem golpe por golpe, nem maldição por maldição. Prestemos atenção ao que disse o Senhor para o nosso aprendizado: ‘Não julgueis para que não sejais julgados; perdoai e vos será perdoado; compadecei para que sejais compadecidos. Com a medida que medirdes, sereis também vós medidos’. E: ‘Bem-aventurados os pobres e os que sofrem perseguição por causa da justiça, porque deles é o reino dos céus'” (Carta aos Filipenses 2)_
 
-[[notes/Santo Inácio De Antioquia|Santo Inácio De Antioquia]]
+[[Santo Inácio De Antioquia|Santo Inácio De Antioquia]]
 
 Para Santo Inácio, não basta proclamar a fé, mas perseverar nela até o fim. Por isso, a fé e a caridade devem estar em unidade. O prêmio do atleta de Deus é a vida eterna, onde receberá a recompensa por suas boas obras. Também estabelece que a salvação está à disposição do homem que, por seu livre-arbítrio, elege a vida ou a morte; porém, se não estiver disposto, inclusive, a morrer por Cristo, não terá a vida eterna:
 

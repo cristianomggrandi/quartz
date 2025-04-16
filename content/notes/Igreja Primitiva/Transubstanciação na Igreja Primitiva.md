@@ -10,7 +10,7 @@ tags:
 
 Primeiro, é importante termos bem definido o que a Igreja ensina como [[Transubstanciação]].
 
-[[Santo Inácio de Antioquia]] diz em suas cartas:
+[[Santo Inácio De Antioquia]] diz em suas cartas:
 
 > _“…_ _para obedecermos ao bispo e ao presbitério numa concórdia indivisível, **partindo um mesmo pão, que é o remédio da imortalidade**, antídoto contra a morte, mas vida em Jesus Cristo para sempre_.” (Epístola aos Efésios IX, 20)
 
