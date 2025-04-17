@@ -5,18 +5,19 @@ aliases:
 tags:
   - matemática
 ---
+
 # Função Trigonométrica
 
-Funções trigonométricas são as [[notes/Função|funções]] derivadas do estudo do triângulo e do circulo trigonométrico.
+Funções trigonométricas são as [[Função|funções]] derivadas do estudo do triângulo e do circulo trigonométrico.
 
 Elas são:
 
-- [[notes/Seno|Seno]]
-- [[notes/Cosseno|Cosseno]]
-- [[notes/Tangente|Tangente]]
-- [[notes/Cossecante|Cossecante]]
-- [[notes/Secante|Secante]]
-- [[notes/Cotangente|Cotangente]]
+- [[Seno|Seno]]
+- [[Cosseno|Cosseno]]
+- [[Tangente|Tangente]]
+- [[Cossecante|Cossecante]]
+- [[Secante|Secante]]
+- [[Cotangente|Cotangente]]
 
 ## Inversas
 

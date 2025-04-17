@@ -1,22 +1,25 @@
 ---
 title: "Matriz Transposta"
 aliases:
-- matrizes transpostas
-- transposta
+  - matrizes transpostas
+  - transposta
 tags:
-- matemática
-- matrizes
+  - matemática
+  - matrizes
 ---
+
 # Matriz Transposta
 
-A [[notes/Matriz|matriz]] transposta de $A_{m \times n}$, denotada por $A^t$, é uma matriz $B_{n \times m}$ tal que o elemento $B_{ij} = A_{ji}$.
+A [[Matriz|matriz]] transposta de $A_{m \times n}$, denotada por $A^t$, é uma matriz $B_{n \times m}$ tal que o elemento $B_{ij} = A_{ji}$.
 
-$$A =
+$$
+A =
 \begin{bmatrix}
 1 & 2 & 3 \\
 4 & 5 & 6
 \end{bmatrix}
 $$
+
 $$
 A^t = B =
 \begin{bmatrix}

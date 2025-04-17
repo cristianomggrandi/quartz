@@ -5,9 +5,10 @@ aliases:
 tags:
   - matemática
 ---
+
 # Limite
 
-Supondo que a [[notes/Função|função]] $f(x)$ esteja definida quando $x$ está próximo de $a$, exceto possivelmente em $a$. Então escrevemos:
+Supondo que a [[Função|função]] $f(x)$ esteja definida quando $x$ está próximo de $a$, exceto possivelmente em $a$. Então escrevemos:
 
 $$\lim_{x \to a} f(x) = L$$
 
@@ -35,7 +36,7 @@ Se $f(x)$ e $g(x)$ são duas funções tais que $\lim_{x \to a} f(x)$ e $\lim_{x
 
 ## Teoremas
 
-- [[notes/Teorema do Sanduíche|Teorema do Sanduíche (ou do Confronto)]]
+- [[Teorema do Sanduíche|Teorema do Sanduíche (ou do Confronto)]]
 
 ## Limite Lateral
 
@@ -56,11 +57,14 @@ $$\lim_{x \to 1^-} f(x) = 3$$
 
 $$\lim_{x \to 1^+} f(x) = 2$$
 
-$$\exists \lim_{x \to a} f(x) \iff \lim_{x \to a^-} f(x) = \lim_{x \to a
-+} f(x)$$
+$$
+\exists \lim_{x \to a} f(x) \iff \lim_{x \to a^-} f(x) = \lim_{x \to a
++} f(x)
+$$
+
 ## Limites Infinitos
 
-Seja $f$ uma [[notes/Função|função]] definida próximo a $a$, exceto em possivelmente em $a$. Então $\lim_{x \to 2^+} f(x) = \infty$ significa que podemos fazer os valores de $f(x)$ ficarem tão grandes quanto quisermos, bastando para isso tomar $x$ suficientemente próximo a $a$, mas não igual a $a$.
+Seja $f$ uma [[Função|função]] definida próximo a $a$, exceto em possivelmente em $a$. Então $\lim_{x \to 2^+} f(x) = \infty$ significa que podemos fazer os valores de $f(x)$ ficarem tão grandes quanto quisermos, bastando para isso tomar $x$ suficientemente próximo a $a$, mas não igual a $a$.
 
 **Exemplo:**
 $$\lim_{x \to 0} \frac{1}{x^2}$$

@@ -1,10 +1,11 @@
 ---
 title: Trigonometria
-aliases: 
+aliases:
 tags:
   - matemática
   - geometria
 ---
+
 # Trigonometria
 
 Um ângulo é determinado por duas semirretas de mesma origem. Ele engloba uma parte de uma circunferência centrada no ponto comum às semirretas que é a mesma fração independentemente do raio da circunferência.
@@ -15,7 +16,7 @@ Para medir ângulos, define-se uma medida para a circunferência completa e mede
 
 A menos de semelhança, existe um único triângulo retângulo com um ângulo $\theta, \theta \in \left(0, \frac{\pi}{2}\right)$.
 
-Considerando as proporções dos lados, cria-se as [[notes/Função Trigonométrica|funções trigonométricas]].
+Considerando as proporções dos lados, cria-se as [[Função Trigonométrica|funções trigonométricas]].
 
 ## Círculo Trigonométrico
 

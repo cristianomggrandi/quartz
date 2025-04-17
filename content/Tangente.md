@@ -6,9 +6,10 @@ tags:
   - matemática
   - geometria
 ---
+
 # Tangente
 
-A tangente de um ângulo do triângulo retângulo é uma [[notes/Função Trigonométrica|função trigonométrica]] que define a razão entre o cateto oposto e o cateto adjacente.
+A tangente de um ângulo do triângulo retângulo é uma [[Função Trigonométrica|função trigonométrica]] que define a razão entre o cateto oposto e o cateto adjacente.
 
 Sua inversa é a Arcotangente.
 

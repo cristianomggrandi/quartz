@@ -5,13 +5,14 @@ aliases:
 tags:
   - matemática
 ---
+
 # Inequação
 
 ## Inequação do 2º Grau
 
 Para se definir o resultado de uma inequação do 2º grau devemos primeiro descobrir as raízes da equação.
 
-Com as raízes, devemos prestar atenção ao sinal ($>$, $<$, $\geq$ ou $\leq$). Devemos pegar o intervalo da [[notes/Função|função]] que corresponde com ele.
+Com as raízes, devemos prestar atenção ao sinal ($>$, $<$, $\geq$ ou $\leq$). Devemos pegar o intervalo da [[Função|função]] que corresponde com ele.
 
 **Exemplo:**
 

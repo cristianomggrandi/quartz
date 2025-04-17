@@ -6,12 +6,13 @@ tags:
   - matemática
   - matrizes
 ---
+
 # Determinante
 
-Considere $Mn(\mathbb{R})$ o conjunto de [[notes/Matriz|matrizes]] $n \times n$ com coeficientes reais. Para cada $n \geq 1$,
+Considere $Mn(\mathbb{R})$ o conjunto de [[Matriz|matrizes]] $n \times n$ com coeficientes reais. Para cada $n \geq 1$,
 
 $$
-\det : 
+\det :
 \begin{gathered}
 Mn(\mathbb{R}) \to \mathbb{R} \\
 A \to \det A
@@ -50,6 +51,7 @@ Y \\
 A_n
 \end{bmatrix})
 $$
+
 2. A determinante de uma matriz pode ser calculada com desenvolvimento em cofatores a partir de qualquer linha ou coluna
 
 3. Se $A$ possui 2 linhas iguais, $\det(A) = 0$.
@@ -59,6 +61,7 @@ $$
 $$
 \det(B) = \alpha \det(A)
 $$
+
 $$
 \text{Ex: } \det(
 \begin{bmatrix}
@@ -117,10 +120,9 @@ $$
 \det(A) = a_{11}ã_{11} + a_{12}ã_{12} + \cdot \cdot \cdot + a_{1n}â_{1n}
 $$
 
-
 ## Inversibilidade
 
-A determinante de uma matriz permite definir se esta matriz possui ou não uma [[notes/Matriz Inversa|matriz inversa]] definida.
+A determinante de uma matriz permite definir se esta matriz possui ou não uma [[Matriz Inversa|matriz inversa]] definida.
 
 1. $A$ é invertível $\iff$ $\det A \neq 0$
 
@@ -156,5 +158,4 @@ $$
 \right]
 $$
 
-Como a [[notes/Escalonamento|matriz escalonada]] possui uma linha nula, o sistema possui infinitas soluções e, portanto, $\det A = 0$.
-
+Como a [[Escalonamento|matriz escalonada]] possui uma linha nula, o sistema possui infinitas soluções e, portanto, $\det A = 0$.

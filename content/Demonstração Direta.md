@@ -8,11 +8,12 @@ tags:
   - matemática
   - lógica
 ---
+
 # Demonstração Direta
 
 Data: 04/08/2023
 
-Demonstração direta é um tipo de [[notes/Demonstração|demonstração]] na qual, partindo da hipótese e por meio da argumentação, chegamos à tese.
+Demonstração direta é um tipo de [[Demonstração|demonstração]] na qual, partindo da hipótese e por meio da argumentação, chegamos à tese.
 
 Supondo que $\forall x \in D: P(x) \implies Q(x)$, prove que $Q(x)$ se $P(x)$.
 

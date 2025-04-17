@@ -1,17 +1,17 @@
 ---
 title: "Sistema Homogêneo"
 aliases:
-- sistemas homogêneos
-- sh
+  - sistemas homogêneos
+  - sh
 tags:
-- matemática
+  - matemática
 ---
+
 # Sistema Homogêneo
 
-Um [[notes/Sistema de Equações Lineares|sistema de equações lineares]] $AX = B$, em que $B = 0$ é chamado de Sistema Homogêneo.
+Um [[Sistema de Equações Lineares|sistema de equações lineares]] $AX = B$, em que $B = 0$ é chamado de Sistema Homogêneo.
 
 **Exemplo:**
-
 
 $$
 \begin{cases}
@@ -22,7 +22,7 @@ x - y = 0
 \end{cases}
 $$
 
-Sua [[notes/Escalonamento|forma escalonada]] se dá por:
+Sua [[Escalonamento|forma escalonada]] se dá por:
 
 $$
 \left[
@@ -39,7 +39,7 @@ Um SH pode ter uma única solução ou infinitas soluções.
 
 ## Teorema
 
-O [[notes/Teorema|teorema]] dos sistemas homogêneos diz que:
+O [[Teorema|teorema]] dos sistemas homogêneos diz que:
 
 Se, em um SEL $A_{m \times n}$, $m < n$ (mais variáveis que equações), então o SH $AX = 0$ tem infinitas soluções.
 

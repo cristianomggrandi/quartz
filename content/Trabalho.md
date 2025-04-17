@@ -5,9 +5,9 @@ aliases:
 tags:
   - filosofia
 ---
+
 # Trabalho
 
 Pensamento organizado/sistematizado que se dirige a fins práticos.
 
-Ontologia da palavra "[[notes/Tecnologia|Tecnologia]]".
-
+Ontologia da palavra "[[Tecnologia|Tecnologia]]".

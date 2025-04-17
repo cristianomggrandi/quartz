@@ -14,6 +14,6 @@ A [[Arquitetura de von Neumann]] é uma arquitetura de máquina digital que poss
 - Unidade Aritmética e Lógica (ALU)
 - Unidade de Controle (CU)
 
-![Arquitetura de von Neumann|250](notes/Imagens/Arquitetura_de_von_Neumann.png)
+![Arquitetura de von Neumann|250](Imagens/Arquitetura_de_von_Neumann.png)
 
 Nesta arquitetura, a ALU executa o programa presente na memória sobre os dados recebidos na entrada.

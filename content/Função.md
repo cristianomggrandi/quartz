@@ -5,15 +5,16 @@ aliases:
 tags:
   - matemática
 ---
+
 # Função
 
 Data: 05/08/2023
 
-Em [[notes/Matemática|matemática]], uma função é uma associação dos elementos de dois [[notes/Conjunto|conjuntos]].
+Em [[Matemática|matemática]], uma função é uma associação dos elementos de dois [[Conjunto|conjuntos]].
 
 **Definição:** Seja $C$ e $D$ dois conjuntos. Uma função $f\colon D \to C$ é uma relação que associa a cada elemento $x$ do conjunto $D$ (domínio), um elemento $f(x)$ do conjunto $C$ (contradomínio).
 
-*Obs: Nem toda relação entre números são funções. (Ex.: $x^2 + y^2 = 16$)*
+_Obs: Nem toda relação entre números são funções. (Ex.: $x^2 + y^2 = 16$)_
 
 ## Domínio e Contradomínio
 
@@ -63,47 +64,46 @@ $$x_1 \ne x_2 \Rightarrow f(x_1) \ne f(x_2) \ \forall x_1, x_2 \in D$$
 
 ## Tipos de Funções
 
-- [[notes/Função Polinomial|Polinomial]]
-- [[notes/Função Raiz|Função Raiz]]
-- [[notes/Função Recíproca|Função Recíproca]]
-- [[notes/Função Racional|Função Racional]]
-- [[notes/Função Exponencial|Função Exponencial]]
-- [[notes/Função Trigonométrica|Funções Trigonométricas]]
-- [[notes/Função Composta|Função Composta]]
-- [[notes/Função Modular|Função Modular]]
-- [[notes/Função Logarítmica|Função Logarítmica]]
-
+- [[Função Polinomial|Polinomial]]
+- [[Função Raiz|Função Raiz]]
+- [[Função Recíproca|Função Recíproca]]
+- [[Função Racional|Função Racional]]
+- [[Função Exponencial|Função Exponencial]]
+- [[Função Trigonométrica|Funções Trigonométricas]]
+- [[Função Composta|Função Composta]]
+- [[Função Modular|Função Modular]]
+- [[Função Logarítmica|Função Logarítmica]]
 
 ## Transformações de Funções
 
 - Reflexão no eixo $y$:
-$$f(x) \to f(-x)$$
+  $$f(x) \to f(-x)$$
 - Reflexão no eixo $x$:
-$$f(x) \to -f(x)$$
+  $$f(x) \to -f(x)$$
 - Translação horizontal:
-$$f(x) \to f(x + a)$$
-$$
-\begin{cases}
-\begin{gather*}
-a > 0, \text{ translada para a esquerda} \\
-a < 0, \text{ translada para a direita}
-\end{gather*}
-\end{cases}
-$$
+  $$f(x) \to f(x + a)$$
+  $$
+  \begin{cases}
+  \begin{gather*}
+  a > 0, \text{ translada para a esquerda} \\
+  a < 0, \text{ translada para a direita}
+  \end{gather*}
+  \end{cases}
+  $$
 - Translação vertical:
-$$f(x) \to f(x) + a$$
-$$
-\begin{cases}
-\begin{gather*}
-a > 0, \text{ translada para cima} \\
-a < 0, \text{ translada para baixo}
-\end{gather*}
-\end{cases}
-$$
+  $$f(x) \to f(x) + a$$
+  $$
+  \begin{cases}
+  \begin{gather*}
+  a > 0, \text{ translada para cima} \\
+  a < 0, \text{ translada para baixo}
+  \end{gather*}
+  \end{cases}
+  $$
 - Mudança de escala horizontal:
-$$f(x) \to f(ax)$$
+  $$f(x) \to f(ax)$$
 - Mudança de escala vertical:
-$$f(x) \to f(x) \cdot a$$
+  $$f(x) \to f(x) \cdot a$$
 
 ## Função Inversa
 

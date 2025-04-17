@@ -1,13 +1,14 @@
 ---
 title: "Matriz Coluna"
 aliases:
-- matrizes coluna
+  - matrizes coluna
 tags:
-- matemática
-- matrizes
+  - matemática
+  - matrizes
 ---
+
 # Matriz Coluna
 
-Uma matriz coluna é uma [[notes/Matriz|matriz]] que possui somente uma coluna.
+Uma matriz coluna é uma [[Matriz|matriz]] que possui somente uma coluna.
 
 $$A_{m \times n}, n = 1$$

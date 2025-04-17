@@ -1,11 +1,12 @@
 ---
 title: "Matriz Nula"
 aliases:
-- matrizes nulas
+  - matrizes nulas
 tags:
-- matemática
-- matrizes
+  - matemática
+  - matrizes
 ---
+
 # Matriz Nula
 
-Uma matriz nula é uma [[notes/Matriz|matriz]] cujos valores são todos 0.
+Uma matriz nula é uma [[Matriz|matriz]] cujos valores são todos 0.

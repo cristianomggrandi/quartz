@@ -8,15 +8,16 @@ tags:
   - matemática
   - lógica
 ---
+
 # Demonstração por Contraposição
 
 Data: 04/08/2023
 
-Demonstração por contraposição é um tipo de [[notes/Demonstração|demonstração]] na qual podemos, ao invés de provar a hipótese de que $P \Rightarrow Q$, podemos provar $\sim Q \Rightarrow \sim P$ (sua [[notes/Contrapositiva|contrapositiva]]).
+Demonstração por contraposição é um tipo de [[Demonstração|demonstração]] na qual podemos, ao invés de provar a hipótese de que $P \Rightarrow Q$, podemos provar $\sim Q \Rightarrow \sim P$ (sua [[Contrapositiva|contrapositiva]]).
 
 Para provar $\forall x \in D: P(x) \implies Q(x)$, podemos provar sua contrapositiva: $\forall x \in D: \lnot Q(x) \implies \lnot P(x)$
 
-**Exemplo:** A [[notes/Proposição|proposição]] "Se $x^2$ é par, $x$ é par" tem como [[notes/Contrapositiva|contrapositiva]] "Se $x$ é impar, $x^2$ é impar".
+**Exemplo:** A [[Proposição|proposição]] "Se $x^2$ é par, $x$ é par" tem como [[Contrapositiva|contrapositiva]] "Se $x$ é impar, $x^2$ é impar".
 
 $$
 \begin{gathered}

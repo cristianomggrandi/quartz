@@ -6,9 +6,10 @@ aliases:
 tags:
   - matemática
 ---
+
 # Matriz Inversa
 
-Se a [[notes/Matriz|matriz]] $A$ tem matriz inversa $B$,
+Se a [[Matriz|matriz]] $A$ tem matriz inversa $B$,
 
 $$A \cdot B = B \cdot A = I$$
 
@@ -45,26 +46,27 @@ Para provar que $B$ é inversa de $A$ e vice-versa, devemos provar tanto $AB = I
 ## Propriedades
 
 - A matriz inversa é única.
-> Se $B$ e $C$ são matrizes inversas de $A$, temos que $AB = BA = I$ e $AC = CA = I$.
-> $B = BI = B \cdot (AC) = (BA)C = IC = C$
+
+  > Se $B$ e $C$ são matrizes inversas de $A$, temos que $AB = BA = I$ e $AC = CA = I$.
+  > $B = BI = B \cdot (AC) = (BA)C = IC = C$
 
 - Se $A$ é invertível, $\exists A^{-1}$ tal que $(A^{-1})^{-1} = A$.
-> Como $A \cdot A^{-1} = I$ e $A^{-1} \cdot A = I$, A inversa de $A^{-1} = A$.
+
+  > Como $A \cdot A^{-1} = I$ e $A^{-1} \cdot A = I$, A inversa de $A^{-1} = A$.
 
 - Se $A_{n \times n}$ e $B_{n \times n}$ são matrizes invertíveis, então $AB$ é invertível e sua inversa se dá por $(AB)^{-1} = B^{-1}A^{-1}$.
-> $(AB) \cdot (B^{-1}A^{-1}) = A \cdot (BB^{-1}) \cdot A^{-1} = A \cdot I \cdot A^{-1} = I$
-> $(B^{-1}A^{-1}) \cdot (AB) = B^{-1} \cdot (A^{-1}A) \cdot B = B^{-1} \cdot I \cdot B = I$
 
-- Se $A$ é invertível, então a [[notes/Matriz Transposta|transposta]] de $A$ é invertível e sua inversa se dá por $(A^t)^{-1} = (A^{-1})^t$.
-> $A^t \cdot (A^{-1})^t = (A^{-1} \cdot A)^t = I^t = I$
-> $(A^{-1})^t \cdot A^t = (A \cdot A^{-1})^t = I^t = I$
+  > $(AB) \cdot (B^{-1}A^{-1}) = A \cdot (BB^{-1}) \cdot A^{-1} = A \cdot I \cdot A^{-1} = I$ > $(B^{-1}A^{-1}) \cdot (AB) = B^{-1} \cdot (A^{-1}A) \cdot B = B^{-1} \cdot I \cdot B = I$
+
+- Se $A$ é invertível, então a [[Matriz Transposta|transposta]] de $A$ é invertível e sua inversa se dá por $(A^t)^{-1} = (A^{-1})^t$.
+
+  > $A^t \cdot (A^{-1})^t = (A^{-1} \cdot A)^t = I^t = I$ > $(A^{-1})^t \cdot A^t = (A \cdot A^{-1})^t = I^t = I$
 
 - Se $AB = I$, então $BA = I$ e vice-versa.
 
 - $AX = B$ tem única solução se, e somente se, $A$ é invertível.
-> $AX = B$
-> $A^{-1} \cdot AX = A^{-1} \cdot B$
-> $X = A^{-1}B$
+
+  > $AX = B$ > $A^{-1} \cdot AX = A^{-1} \cdot B$ > $X = A^{-1}B$
 
 - Se $AX = 0$ tem solução não trivial (todas as variáveis não nulas), $A$ é não invertível.
 

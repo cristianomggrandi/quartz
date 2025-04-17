@@ -1,13 +1,14 @@
 ---
 title: "Tautologia"
 aliases:
-- tautologias
+  - tautologias
 tags:
-- lógica
+  - lógica
 ---
+
 # Tautologia
 
-Tautologia é uma afirmação [[notes/Lógica|lógica]] que é sempre verdadeira.
+Tautologia é uma afirmação [[Lógica|lógica]] que é sempre verdadeira.
 
-Um **exemplo** é a [[notes/Proposição|proposição]]:
+Um **exemplo** é a [[Proposição|proposição]]:
 $$p \lor \lnot p$$

@@ -1,13 +1,14 @@
 ---
 title: "Função Exponencial"
 aliases:
-- funções exponenciais
+  - funções exponenciais
 tags:
-- matemática
+  - matemática
 ---
+
 # Função Exponencial
 
-Uma [[notes/Função|função]] exponencial é definida por
+Uma [[Função|função]] exponencial é definida por
 
 $$f(x) = a^x$$
 

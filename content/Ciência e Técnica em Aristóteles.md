@@ -5,6 +5,7 @@ aliases:
 tags:
   - filosofia
 ---
+
 # Ciência e Técnica em Aristóteles
 
 ## Metafísica
@@ -13,16 +14,14 @@ O desejo do saber se manifesta por 3 capacidades psíquicas:
 
 1. Percepção (homens e animais)
 2. Memória (homens)
-	Se difere da dos animais por ter:
-		- Caráter acumulativo
-		- Sentido humano
+   Se difere da dos animais por ter: - Caráter acumulativo - Sentido humano
 3. Experiência (homens)
 
 ## Téchne e Epistème
 
-Aristóteles, na antiguidade clássica, juntamente com os Gregos, participou da "invenção do pensamento", do "racional ocidental". Com isso, houve o rompimento com a "Dóxa" (opinião/processos de mitificação do pensamento) e uma consequente valorização da epistème (*pensamento* racional/científico).
+Aristóteles, na antiguidade clássica, juntamente com os Gregos, participou da "invenção do pensamento", do "racional ocidental". Com isso, houve o rompimento com a "Dóxa" (opinião/processos de mitificação do pensamento) e uma consequente valorização da epistème (_pensamento_ racional/científico).
 
-Ambos [[notes/Téchne|téchne]] e [[notes/Epistème|epistème]] possuem caráter teórico e especulativo.
+Ambos [[Téchne|téchne]] e [[Epistème|epistème]] possuem caráter teórico e especulativo.
 
 A arte (téchne) surgiu para solucionar as necessidades imediatas e tornar a vida mais aprazível.
 

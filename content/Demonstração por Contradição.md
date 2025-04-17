@@ -8,11 +8,12 @@ tags:
   - matemática
   - lógica
 ---
+
 # Demonstração por Contradição
 
 Data: 04/08/2023
 
-Uma demonstração por contradição, ou por absurdo, utiliza do [[notes/Princípio do Terceiro Excluído|Princípio do Terceiro Excluído]] para descobrir a validade de uma afirmação. Para isso, assumimos ela como falsa e, caso cheguemos em algum absurdo, a afirmação é verdadeira.
+Uma demonstração por contradição, ou por absurdo, utiliza do [[Princípio do Terceiro Excluído|Princípio do Terceiro Excluído]] para descobrir a validade de uma afirmação. Para isso, assumimos ela como falsa e, caso cheguemos em algum absurdo, a afirmação é verdadeira.
 
 Para provar $\forall x \in D: P(x) \implies Q(x)$, podemos provar que sua negação $\exists x \in D: P(x) \land \lnot Q(x)$ é impossível.
 

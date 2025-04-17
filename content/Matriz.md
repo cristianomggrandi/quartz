@@ -1,12 +1,13 @@
 ---
 title: "Matriz"
 aliases:
-- matrizes
-- matricial
+  - matrizes
+  - matricial
 tags:
-- matemática
-- matrizes
+  - matemática
+  - matrizes
 ---
+
 # Matriz
 
 Matriz é uma tabela de elementos composta por linhas e colunas.
@@ -16,6 +17,7 @@ A matriz $A$ é notada por $A_{m \times n}$ ou $[a_ij]_{m \times n}$ e tem $m$ l
 Um elemento é representado por $a_ij$ e ele se localiza na linha $i$ e coluna $j$.
 
 **Exemplo:** Dada a matriz $A_{2  \times 2}$
+
 $$
 \begin{gathered}
 A_{2 \times 2} =
@@ -29,18 +31,18 @@ $$
 
 ## Tipos de Matriz
 
-- [[notes/Matriz Quadrada|Matriz quadrada]]
-- [[notes/Matriz Nula|Matriz nula]]
-- [[notes/Matriz Linha|Matriz linha]]
-- [[notes/Matriz Coluna|Matriz coluna]]
-- [[notes/Matriz Quadrada#Matriz Diagonal|Matriz quadrada]]
-- [[notes/Matriz Quadrada#Matriz Triangular|Matriz triangular]]
-- [[notes/Matriz Identidade|Matriz identidade]]
+- [[Matriz Quadrada|Matriz quadrada]]
+- [[Matriz Nula|Matriz nula]]
+- [[Matriz Linha|Matriz linha]]
+- [[Matriz Coluna|Matriz coluna]]
+- [[Matriz Quadrada#Matriz Diagonal|Matriz quadrada]]
+- [[Matriz Quadrada#Matriz Triangular|Matriz triangular]]
+- [[Matriz Identidade|Matriz identidade]]
 
 ## Matrizes Relacionadas
 
-- [[notes/Matriz Transposta|Matriz transposta]]
-- [[notes/Matriz Inversa|Matriz inversa]]
+- [[Matriz Transposta|Matriz transposta]]
+- [[Matriz Inversa|Matriz inversa]]
 
 ## Operações com Matrizes
 
@@ -88,10 +90,11 @@ $$
 Sejam A e B duas matrizes de ordem $m$ por $n$. A multiplicação de $A \cdot B$ é o resultado da seguinte expressão:
 
 $$
-\sum_{l = 1}^{k} a_{il} \cdot b_{lj} = a_{i1} \cdot b_{1j} + a_{i2} \cdot b_{2j} + \cdot \cdot \cdot \ + a_{ik} \cdot b_{kj} 
+\sum_{l = 1}^{k} a_{il} \cdot b_{lj} = a_{i1} \cdot b_{1j} + a_{i2} \cdot b_{2j} + \cdot \cdot \cdot \ + a_{ik} \cdot b_{kj}
 $$
 
 **Exemplo:**
+
 $$
 \begin{gathered}
 A =
@@ -132,4 +135,4 @@ Sendo $A$ e $B$ matrizes e $λ$ um número escalar, temos:
 
 ## Determinante
 
-Toda matriz possui um [[notes/Determinante|determinante]], que, entre outras coisas, permite definir se há uma [[notes/Matriz Inversa|matriz inversa]].
+Toda matriz possui um [[Determinante|determinante]], que, entre outras coisas, permite definir se há uma [[Matriz Inversa|matriz inversa]].

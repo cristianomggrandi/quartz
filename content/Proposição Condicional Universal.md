@@ -1,13 +1,14 @@
 ---
 title: Proposição Condicional Universal
-aliases: 
+aliases:
 tags:
   - matrizes
   - lógica
 ---
+
 # Proposição Condicional Universal
 
-Considera-se que a forma de [[notes/Proposição|proposição]] mais importante em [[notes/Matemática|matemática]] é a proposição [[notes/Se Então (Operador Lógico)|condicional]] universal.
+Considera-se que a forma de [[Proposição|proposição]] mais importante em [[Matemática|matemática]] é a proposição [[Se Então (Operador Lógico)|condicional]] universal.
 
 $\forall x \in D, P(x) \implies Q(x)$
 
@@ -21,7 +22,7 @@ $\lnot(\forall x, P(x) \implies Q(x)) \equiv \exists x \mid P(x) \land \lnot Q(x
 
 ## Modus Ponens Universal
 
-Assim como uma proposição comum, a proposição condicional universal também possui um [[notes/Modus Ponens|Modus Ponens]].
+Assim como uma proposição comum, a proposição condicional universal também possui um [[Modus Ponens|Modus Ponens]].
 
 $$
 \begin{gathered}

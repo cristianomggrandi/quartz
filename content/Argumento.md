@@ -1,14 +1,15 @@
 ---
 title: "Argumento"
 aliases:
-- argumentos
+  - argumentos
 tags:
-- matemática
-- lógica
+  - matemática
+  - lógica
 ---
+
 # Argumento
 
-Em [[notes/Lógica|lógica]], um argumento é uma sequência de afirmações que termina com uma conclusão.
+Em [[Lógica|lógica]], um argumento é uma sequência de afirmações que termina com uma conclusão.
 
 $$p \land q \land r \implies t$$
 
@@ -24,9 +25,8 @@ Usa-se $\therefore$ entre as premissas e a conclusão.
 Nina é um ser humano
 $\therefore$ Nina é mortal.
 
-
 | $p$ | $q$ | $p \implies q$ |
-|:---:|:---:|:--------------:|
+| :-: | :-: | :------------: |
 |  V  |  V  |       V        |
 |  V  |  F  |       F        |
 |  F  |  V  |       V        |
@@ -42,9 +42,8 @@ $p \lor (q \lor r)$
 $\lnot r$
 $\therefore p \lor q$
 
-
 | $p$ | $q$ | $r$ | $q \lor r$ | $p \lor (q \lor r)$ | $\lnot r$ | $p \lor q$ |
-|:---:|:---:|:---:|:----------:|:-------------------:|:---------:|:----------:|
+| :-: | :-: | :-: | :--------: | :-----------------: | :-------: | :--------: |
 |  V  |  V  |  V  |     V      |          V          |     F     |     V      |
 |  V  |  V  |  F  |     V      |          V          |     V     |     V      |
 |  V  |  F  |  V  |     V      |          V          |     F     |     V      |
@@ -52,7 +51,7 @@ $\therefore p \lor q$
 |  F  |  V  |  V  |     V      |          V          |     F     |     V      |
 |  F  |  V  |  F  |     V      |          V          |     V     |     V      |
 |  F  |  F  |  V  |     V      |          V          |     F     |     F      |
-|  F  |  F  |  F  |     F      |          F          |     V     |     F      | 
+|  F  |  F  |  F  |     F      |          F          |     V     |     F      |
 
 Nesse exemplo, a quinta ($p \lor (q \lor r)$) e sexta ($\lnot r$) coluna são premissas e a última ($p \lor q$) é a conclusão.
 

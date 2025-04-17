@@ -2,11 +2,12 @@
 title: "Lema"
 alias: lemas
 tags:
-- matemática
-- lógica
+  - matemática
+  - lógica
 ---
+
 # Lema
 
 Data: 04/08/2023
 
-Lema é um [[notes/Teorema|teorema]] auxiliar à [[notes/Demonstração|demonstração]] de outro teorema.
+Lema é um [[Teorema|teorema]] auxiliar à [[Demonstração|demonstração]] de outro teorema.

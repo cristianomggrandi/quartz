@@ -1,8 +1,9 @@
 ---
 title: Téchne
-aliases: 
+aliases:
 tags:
 ---
+
 # Téchne
 
 ## Características:
@@ -29,4 +30,4 @@ Aristóteles afirma que a medicina (arte de curar) é uma téchne porque depende
 Pasteur:
 
 - Rompe com a medicina como Téchne
-- Com isso, a medicina se aproxima de ser uma [[notes/Epistème|epistème]]
+- Com isso, a medicina se aproxima de ser uma [[Epistème|epistème]]

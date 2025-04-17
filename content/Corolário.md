@@ -2,16 +2,17 @@
 title: "Corolário"
 alias: corolários
 tags:
-- matemática
-- lógica
+  - matemática
+  - lógica
 ---
+
 # Corolário
 
 Data: 04/08/2023
 
 Um corolário é uma afirmação deduzida de uma verdade já demonstrada.
 
-Um [[notes/Teorema|teorema]] corolário é uma conclusão que pode ser tirada diretamente da [[notes/Demonstração|demonstração]] de outros teoremas.
+Um [[Teorema|teorema]] corolário é uma conclusão que pode ser tirada diretamente da [[Demonstração|demonstração]] de outros teoremas.
 
 **Exemplo:**
 

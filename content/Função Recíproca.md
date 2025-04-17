@@ -1,13 +1,14 @@
 ---
 title: "Função Recíproca"
 aliases:
-- funções recíprocas
+  - funções recíprocas
 tags:
-- matemática
+  - matemática
 ---
+
 # Função Recíproca
 
-Uma [[notes/Função|função]] recíproca é definida por
+Uma [[Função|função]] recíproca é definida por
 
 $$f(x) = \frac{1}{x^n}$$
 
@@ -18,14 +19,15 @@ $$n \in \mathbb{Z}, n \neq 1$$
 - Domínio: $\mathbb{R} \setminus \lbrace0\rbrace$
 
 - Imagem:
-$$
-\begin{cases}
-\begin{gather*}
-\mathbb{R^+_\ast}, \text{ Se } n \text{ é par} \\
-\mathbb{R} \setminus \lbrace0\rbrace, \text{ Se } n \text{ é ímpar} \\
-\end{gather*}
-\end{cases}
-$$
+
+  $$
+  \begin{cases}
+  \begin{gather*}
+  \mathbb{R^+_\ast}, \text{ Se } n \text{ é par} \\
+  \mathbb{R} \setminus \lbrace0\rbrace, \text{ Se } n \text{ é ímpar} \\
+  \end{gather*}
+  \end{cases}
+  $$
 
 - Se $n$ é par, crescente em $(-\infty, 0)$ e decrescente em $(0, \infty)$
 - Se $n$ é ímpar, decrescente em todo o domínio.

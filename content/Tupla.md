@@ -5,9 +5,10 @@ aliases:
 tags:
   - matemática
 ---
+
 # Tupla
 
-Um [[notes/Conjunto|conjunto]] ordenado.
+Um [[Conjunto|conjunto]] ordenado.
 
 # 2-Tupla
 

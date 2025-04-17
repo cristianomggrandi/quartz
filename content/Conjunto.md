@@ -5,6 +5,7 @@ aliases:
 tags:
   - matemática
 ---
+
 # Conjunto
 
 Um conjunto é uma adição contável de elementos.
@@ -27,7 +28,7 @@ $$A \cup B$$
 
 ### Interseção (não)
 
-Conjunto que possui todos os elementos presentes no [[notes/Espaço Amostral|espaço amostral]] ausentes no conjunto.
+Conjunto que possui todos os elementos presentes no [[Espaço Amostral|espaço amostral]] ausentes no conjunto.
 
 $$A^c$$
 

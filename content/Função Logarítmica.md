@@ -5,11 +5,12 @@ aliases:
 tags:
   - matemática
 ---
+
 # Função Logarítmica
 
-A [[notes/Função Exponencial|função exponencial]] $f(x) = a^x$, $a>0$, $a \neq 1$ é uma bijeção de $\mathbb{R}$ em $\mathbb{R_*^+}$.
+A [[Função Exponencial|função exponencial]] $f(x) = a^x$, $a>0$, $a \neq 1$ é uma bijeção de $\mathbb{R}$ em $\mathbb{R_*^+}$.
 
-Sua [[notes/Função|função]] inversa é chamada função logarítmica de base $a$ ($a > 0$, $a \neq 1$).
+Sua [[Função|função]] inversa é chamada função logarítmica de base $a$ ($a > 0$, $a \neq 1$).
 
 $$
 \log_a x : \mathbb{R_*^+} \to \mathbb{R}
@@ -57,6 +58,7 @@ $\log_{x + 2} (2x^2 + x) = 1$
 $2x^2 + x = (x + 2)^1 \iff 2^2 = 2 \iff x^2 = 1 \iff x = \pm 1$
 
 Condições
+
 - $x + 2 > 0 \iff x > -2$
 - $x + 2 \neq 1 \iff x \neq -1$
 - $2x^2 + x > 0 \iff x \in \left(-\infty, -\frac{1}{2}\right)\cup(0, \infty)$

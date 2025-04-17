@@ -1,12 +1,13 @@
 ---
 title: Teorema do Sanduíche
-aliases: 
+aliases:
 tags:
   - matemática
 ---
+
 # Teorema do Sanduíche (ou do Confronto)
 
-O [[notes/Teorema|Teorema]] do Sanduíche afirma que, se existem os [[notes/Limite|limites]] $\lim_{x \to a} f(x)$ e $\lim_{x \to a} g(x)$ e $f(x) \leq g(x)$ quando $x$ está próximo a $a$, então $\lim_{x \to a} f(x) \leq \lim_{x \to a} g(x)$.
+O [[Teorema|Teorema]] do Sanduíche afirma que, se existem os [[Limite|limites]] $\lim_{x \to a} f(x)$ e $\lim_{x \to a} g(x)$ e $f(x) \leq g(x)$ quando $x$ está próximo a $a$, então $\lim_{x \to a} f(x) \leq \lim_{x \to a} g(x)$.
 
 Logo, se
 

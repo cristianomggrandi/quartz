@@ -6,9 +6,10 @@ tags:
   - matemática
   - geometria
 ---
+
 # Arcotangente
 
-O arcotangente nos devolve o ângulo que originou o valor da [[notes/Tangente|tangente]], de modo que
+O arcotangente nos devolve o ângulo que originou o valor da [[Tangente|tangente]], de modo que
 
 Para $\arctan$ ser definida ($\tan$ ser bijetora), define-se o domínio de $\tan$ como $\left[-\frac{\pi}{2}, \frac{\pi}{2}\right]$.
 

@@ -6,6 +6,7 @@ tags:
   - matrizes
   - lógica
 ---
+
 # Quantificador
 
 $\forall$ - Para todo
@@ -26,7 +27,7 @@ $\forall x \geq 2; x^2 \geq x$
 
 ## Negação
 
-Negue o [[notes/Predicado|predicado]] e o quantificador.
+Negue o [[Predicado|predicado]] e o quantificador.
 
 **Exemplo:**
 

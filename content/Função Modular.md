@@ -5,11 +5,13 @@ aliases:
 tags:
   - matemática
 ---
+
 # Função Modular
 
-Uma [[notes/Função|função]] modular é uma função na qual, dado o nímero real $x$, definimos o valor absoluto de $x$, ou módulo de x, como:
+Uma [[Função|função]] modular é uma função na qual, dado o nímero real $x$, definimos o valor absoluto de $x$, ou módulo de x, como:
 
-$$\vert x \vert = 
+$$
+\vert x \vert =
 \begin{cases}
 \begin{gather*}
 x \text{ se } x \geq 0 \\
@@ -27,8 +29,8 @@ Se $\vert a \vert$ = b, então $b \geq 0$ e $b = a$ ou $b = -a$.
 $$\vert 2x - 5 \vert - \vert x - 2 \vert = 3x + 1$$
 
 |                                          |  $x < 2$  | $2 \leq x < \frac{5}{2}$ | $x \geq \frac{5}{2}$ |
-|:----------------------------------------:|:---------:|:------------------------:|:--------------------:|
-|             $\vert2x-5\vert$             | $-2x + 5$ |        $-2x + 5$         |       $2x - 5$       | 
+| :--------------------------------------: | :-------: | :----------------------: | :------------------: |
+|             $\vert2x-5\vert$             | $-2x + 5$ |        $-2x + 5$         |       $2x - 5$       |
 |           $\vert x - 2 \vert$            | $-x + 2$  |         $x - 2$          |       $x - 2$        |
 | $\vert 2x - 5 \vert - \vert x - 2 \vert$ | $-x + 3$  |        $-3x + 7$         |       $x - 3$        |
 
@@ -65,11 +67,10 @@ $$S = \mathbb{R} \cap \left[ -\frac{3}{4}, 1 \right] = \left[ -\frac{3}{4}, 1 \r
 **Exemplo 2:**
 
 |                                          | $x < \frac{2}{5}$ | $\frac{2}{5} \leq x < 3$ | $x \geq 3$ |
-|:----------------------------------------:|:-----------------:|:------------------------:|:----------:|
+| :--------------------------------------: | :---------------: | :----------------------: | :--------: |
 |           $\vert x - 3 \vert$            |     $-x + 3$      |        $-2x + 5$         |  $2x - 5$  |
 |           $\vert x - 2 \vert$            |     $-x + 2$      |         $x - 2$          |  $x - 2$   |
 | $\vert 2x - 5 \vert - \vert x - 2 \vert$ |     $-x + 3$      |        $-3x + 7$         |  $x - 3$   |
-
 
 Se $x < \frac{2}{5}$, $4x + 1 \geq x - 2 \iff x \geq -1$. Então $x \in \left[ -1, \frac{2}{5} \right]$.
 

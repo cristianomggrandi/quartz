@@ -2,16 +2,17 @@
 title: "Proposição"
 alias: proposições
 tags:
-- matemática
-- lógica
+  - matemática
+  - lógica
 ---
+
 # Proposição
 
 Data: 02/08/2023
 
 Proposição é uma oração afirmativa cujo valor é verdadeiro ou falso.
 
-Proposição [[notes/Se Então (Operador Lógico)|condicional]] ou implicativa é uma proposição que parte de uma premissa e sua conclusão depende dela para sua veracidade. Por exemplo:
+Proposição [[Se Então (Operador Lógico)|condicional]] ou implicativa é uma proposição que parte de uma premissa e sua conclusão depende dela para sua veracidade. Por exemplo:
 
 $$
 \begin{gathered}
@@ -23,12 +24,11 @@ P \Rightarrow Q
 \end{gathered}
 $$
 
-
 O [[Teorema de Pitágoras]] é um exemplo de proposição.
 
 Existem proposições associadas a uma proposição condicional. Elas são:
 
-- [[notes/Proposição Recíproca|Recíproca]]
+- [[Proposição Recíproca|Recíproca]]
 - [[Contrapositiva]]
 - Oposta
 - Inversa

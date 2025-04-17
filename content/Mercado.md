@@ -1,10 +1,11 @@
 ---
 title: "Mercado"
 aliases:
-- 
+  -
 tags:
-- 
+  -
 ---
+
 # Mercado
 
 Lugar em que ocorre o encontro entre a oferta e a demanda.
@@ -25,7 +26,7 @@ Um único detentor da tecnologia de produção.
 
 Não há curva de oferta.
 
-Preço definido simplesmente pela [[notes/Curva de demanda|curva de demanda]].
+Preço definido simplesmente pela [[Curva de demanda|curva de demanda]].
 
 Não há maximização do preço, mas sim uma maximização do lucro.
 
@@ -56,7 +57,7 @@ Ex.: Apple
 
 ## Equilíbrio de Mercado
 
-A interseção entre a [[notes/Curva de demanda|curva de demanda]] e a curva de oferta representa o **preço de equilíbrio** e a **quantidade de equilíbrio**.
+A interseção entre a [[Curva de demanda|curva de demanda]] e a curva de oferta representa o **preço de equilíbrio** e a **quantidade de equilíbrio**.
 
 ## Controle de Preço
 

@@ -9,9 +9,10 @@ tags:
   - álgebra-linear
   - geometria
 ---
+
 # Vetor
 
-Um vetor é uma classe de [[notes/Segmento Orientado|segmentos orientados]] equipolentes.
+Um vetor é uma classe de [[Segmento Orientado|segmentos orientados]] equipolentes.
 
 $$\vec v: [\vec{AB}] = \lbrace \vec{XY}; \vec{XY} \sim \vec{AB} \rbrace$$
 
@@ -28,7 +29,6 @@ A norma ($\Vert \vec v \Vert$) de um vetor é a distância da origem para a extr
 $$\Vert \vec v \Vert = \sqrt{v_1^2 + v_2^2 + v_3^2}, \vec v \in \mathbb{R}^3$$
 
 ## Operações com Vetores
-
 
 $\vec u = (u_1, u_2, u_3)$
 
@@ -57,16 +57,16 @@ $$B = (1, 8)$$
 
 #### Propriedades Operacionais
 
-|                Propriedade                 |                                    Operação                                     |
-|:------------------------------------------:|:-------------------------------------------------------------------------------:|
-|               Comutatividade               |                     $\vec u + \vec v = \vec v + \vec u$                     |
-|              Associatividade               |         $(\vec u + \vec v) + \vec w = \vec u + (\vec v + \vec w)$         |
+|                Propriedade                 |                                   Operação                                   |
+| :----------------------------------------: | :--------------------------------------------------------------------------: |
+|               Comutatividade               |                     $\vec u + \vec v = \vec v + \vec u$                      |
+|              Associatividade               |          $(\vec u + \vec v) + \vec w = \vec u + (\vec v + \vec w)$           |
 |         Elemento neutro da adição          | $\exists\vec{0}; \vec v + \vec{0} = \vec v, \forall \vec v \in \mathbb{R}^3$ |
-|        Elemento simétrico na adição        |  $\exists \vec v, \vec{-v} \in \mathbb{R}^3; \vec v + (\vec{-v}) = \vec{0}$   |
-|          Distributiva do escalar           |        $\lambda (\vec u + \vec v) = \lambda \vec u + \lambda \vec v$        |
+|        Elemento simétrico na adição        |  $\exists \vec v, \vec{-v} \in \mathbb{R}^3; \vec v + (\vec{-v}) = \vec{0}$  |
+|          Distributiva do escalar           |        $\lambda (\vec u + \vec v) = \lambda \vec u + \lambda \vec v$         |
 |           Distributiva do vetor            |    $(\lambda_1 + \lambda_2) \vec v = \lambda_1 \vec v + \lambda_2 \vec v$    |
-| Associatividade na distributiva do escalar |         $\lambda_1 (\lambda_2 \vec v) = (\lambda_1 \lambda_2) \vec v$         |
-| Elemento neutro na multiplicão por escalar |                           $1 \cdot \vec v = \vec v$                           |
+| Associatividade na distributiva do escalar |        $\lambda_1 (\lambda_2 \vec v) = (\lambda_1 \lambda_2) \vec v$         |
+| Elemento neutro na multiplicão por escalar |                          $1 \cdot \vec v = \vec v$                           |
 
 ### Produto Escalar (Produto Interno)
 
@@ -102,7 +102,7 @@ Usando isso, podemos provar que:
 
 $$\Vert \vec u - \vec v \Vert^2 = (\vec u - \vec v)(\vec u - \vec v) = \vec u (\vec u - \vec v) - \vec v (\vec u - \vec v)$$
 $$\vec u\vec u - \vec u\vec v - \vec v\vec u + \vec v\vec v = \Vert \vec u \Vert^2 - 2(\vec u\vec v) + \Vert \vec v \Vert^2$$
-[[notes/Lema|Lema]]: $\Vert \vec u - \vec v \Vert^2 = \Vert \vec u \Vert^2 - 2(\vec u\vec v) + \Vert \vec v \Vert^2$
+[[Lema|Lema]]: $\Vert \vec u - \vec v \Vert^2 = \Vert \vec u \Vert^2 - 2(\vec u\vec v) + \Vert \vec v \Vert^2$
 
 Por meio da Lei dos Cossenos, podemos obter que:
 
@@ -143,7 +143,8 @@ Sejam $\vec u, \vec v \in \mathbb{R}^3$. O produto vetorial é denotado por $\ve
 
 As coordenadas do vetor $\vec u \times \vec v$ são dadas por:
 
-$$\det (
+$$
+\det (
 \begin{bmatrix}
 \vec i & \vec j & \vec k \\
 u_1 & u_2 & u_3 \\

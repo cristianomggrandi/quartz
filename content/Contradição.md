@@ -1,14 +1,14 @@
 ---
 title: "Contradição"
 aliases:
-- contradições
+  - contradições
 tags:
-- lógica
+  - lógica
 ---
 
 # Contradição
 
-Contradição é uma afirmação [[notes/Lógica|lógica]] que é sempre falsa.
+Contradição é uma afirmação [[Lógica|lógica]] que é sempre falsa.
 
-Um **exemplo** é a [[notes/Proposição|proposição]]:
+Um **exemplo** é a [[Proposição|proposição]]:
 $$p \land \lnot p$$

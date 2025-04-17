@@ -1,12 +1,13 @@
 ---
 title: "Princípio do Terceiro Excluído"
 tags:
-- lógica
+  - lógica
 ---
+
 # Princípio do Terceiro Excluído
 
 Data: 05/08/2023
 
-Em [[notes/Lógica|lógica]], o [[notes/Princípio do Terceiro Excluído|Princípio do Terceiro Excluído]] é a terceira de três clássicas [[Leis do Pensamento]].
+Em [[Lógica|lógica]], o [[Princípio do Terceiro Excluído|Princípio do Terceiro Excluído]] é a terceira de três clássicas [[Leis do Pensamento]].
 
-O princípio afirma que, para qualquer [[notes/Proposição|proposição]], ou esta proposição é verdadeira, ou sua negação é verdadeira. ^de4010
+O princípio afirma que, para qualquer [[Proposição|proposição]], ou esta proposição é verdadeira, ou sua negação é verdadeira. ^de4010

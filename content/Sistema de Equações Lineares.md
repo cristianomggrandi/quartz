@@ -1,14 +1,15 @@
 ---
 title: "Sistema de Equações Lineares"
 aliases:
-- sistemas de equações lineares
-- sel
+  - sistemas de equações lineares
+  - sel
 tags:
-- matemática
+  - matemática
 ---
+
 # Sistema de Equações Lineares
 
-Um sistema de equações lineares (SEL) é um conjunto de [[notes/Equação Linear|equações lineares]].
+Um sistema de equações lineares (SEL) é um conjunto de [[Equação Linear|equações lineares]].
 
 **Exemplo:**
 
@@ -21,13 +22,14 @@ $$
 
 ## Representação Matricial
 
-A representação [[notes/Matriz|matricial]] de um SEL é dada pelo produto dos coeficientes que acompanham as variáveis por uma [[notes/Matriz Coluna|matriz coluna]] com as variáveis igualada a uma matriz com o resultado.
+A representação [[Matriz|matricial]] de um SEL é dada pelo produto dos coeficientes que acompanham as variáveis por uma [[Matriz Coluna|matriz coluna]] com as variáveis igualada a uma matriz com o resultado.
 
 **Exemplo:**
 
 $$
 AX = B
 $$
+
 $$
 A =
 \begin{bmatrix}
@@ -35,6 +37,7 @@ A =
 2 & -1
 \end{bmatrix}
 $$
+
 $$
 X =
 \begin{bmatrix}
@@ -42,6 +45,7 @@ x \\
 y
 \end{bmatrix}
 $$
+
 $$
 B =
 \begin{bmatrix}
@@ -50,12 +54,12 @@ B =
 \end{bmatrix}
 $$
 
-*Obs.: A renderização de mais de uma matriz na mesma linha não funciona, por isso separei em linhas diferentes.*
+_Obs.: A renderização de mais de uma matriz na mesma linha não funciona, por isso separei em linhas diferentes._
 
 A matriz aumentada do SEL definido por $AX = B$ é definida por $[A|B]$
 
 $$
-[A|B] = 
+[A|B] =
 \left[
 \begin{array}{cc|c}
 1 & 3 & 2 \\
@@ -68,7 +72,7 @@ $$
 
 Um conjunto solução ($S$) para um SEL é um conjunto de todas as soluções possíveis para este SEL.
 
-Para solucionar um SEL, é possível utilizar a técnica do [[notes/Escalonamento|escalonamento]].
+Para solucionar um SEL, é possível utilizar a técnica do [[Escalonamento|escalonamento]].
 
 ## Tipos de SEL
 
@@ -76,7 +80,7 @@ Um SEL pode ser de 3 tipos, dependendo do número de soluções que ele possui:
 
 - Impossível (0 soluções)
 
-O SEL é impossível se sua [[notes/Escalonamento|matriz escalonada]] possuir uma linha na forma
+O SEL é impossível se sua [[Escalonamento|matriz escalonada]] possuir uma linha na forma
 
 $$[0  \cdot \cdot \cdot 0 | K], K \neq 0$$
 
@@ -94,7 +98,7 @@ $$
 
 - Possível e indeterminado (infinitas soluções)
 
-O SEL é possível e indeterminado se sua [[notes/Escalonamento|matriz escalonada]] possuir menos linhas nulas 
+O SEL é possível e indeterminado se sua [[Escalonamento|matriz escalonada]] possuir menos linhas nulas
 
 **Exemplo:**
 
@@ -133,4 +137,4 @@ $$
 
 ## Sistemas Específicos
 
-- [[notes/Sistema Homogêneo|Sistema Homogêneo]]
+- [[Sistema Homogêneo|Sistema Homogêneo]]

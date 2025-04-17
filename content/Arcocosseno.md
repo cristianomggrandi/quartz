@@ -6,9 +6,10 @@ tags:
   - matrizes
   - geometria
 ---
+
 # Arcocosseno
 
-O arcocosseno nos devolve o ângulo que originou o valor do [[notes/Cosseno|cosseno]], de modo que
+O arcocosseno nos devolve o ângulo que originou o valor do [[Cosseno|cosseno]], de modo que
 
 Para $\arccos$ ser definida ($\cos$ ser bijetora), define-se o domínio de $\cos$ como $\left[0, \pi\right]$.
 

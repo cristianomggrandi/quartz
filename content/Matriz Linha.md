@@ -1,13 +1,14 @@
 ---
 title: "Matriz Linha"
 aliases:
-- matrizes linha
+  - matrizes linha
 tags:
-- matemática
-- matrizes
+  - matemática
+  - matrizes
 ---
+
 # Matriz Linha
 
-Uma matriz linha é uma [[notes/Matriz|matriz]] que possui somente uma linha.
+Uma matriz linha é uma [[Matriz|matriz]] que possui somente uma linha.
 
 $$A_{m \times n}, m = 1$$
