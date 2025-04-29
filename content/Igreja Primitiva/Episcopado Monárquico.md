@@ -7,7 +7,7 @@ tags:
   - catolicismo
   - cristianismo
 ---
-# Episcopado Monárquico na Igreja Primitiva
+# Episcopado Monárquico
 
 ## Santo Inácio de Antioquia
 

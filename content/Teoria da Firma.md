@@ -9,6 +9,8 @@ tags:
 
 Toda firma produz dentro de uma lógica de maximização de lucro.
 
+**Não há maximização do preço, mas sim uma maximização do lucro.**
+
 $$L = R_t - C_t$$
 Como $R_t = P \cdot Q$, a firma decide a quantidade $Q$ a partir do preço $P$, sendo que a quantidade não segue a quantidade de equilíbrio $Q^*$.
 
@@ -52,6 +54,8 @@ Para a firma individual, a **Receita Marginal** é igual ao preço
 
 $$R_{marginal} = P$$
 
+Para um **monopolista**, a $R_{marginal}$ é inclinada na direção da demanda (não necessariamente o mesmo ângulo) e possui valores abaixo da curva de demanda.
+
 ## Maximização de Lucro
 
 A maximização de lucro ocorre quando a receita marginal for igual ao custo marginal.
@@ -61,3 +65,51 @@ $$R_{marginal} = C_{marginal}$$
 No longo prazo no ponto de escala eficiente (**EE**), a max. de lucro é igual à min. de custo.
 
 **No longo prazo, em uma concorrência perfeita**, a tendência é que o lucro se aproxime de zero.
+
+## Concorrência perfeita
+
+Só se é possível definir um preço sociavelmente ótimo se houver uma concorrência perfeita.
+
+Estrutura da concorrência perfeita: muitos vendedores e muitos compradores.
+
+Na concorrência perfeita, maximizar o lucro é equivalente a minimizar o custo.
+
+
+## Estruturas de mercado
+
+- [[Monopólio]]
+- [[Oligopólio]]
+- [[Concorrência monopolística]] (produtos diferentes)
+- [[Concorrência perfeita]] (produtos idênticos)
+
+## Determinantes da Demanda
+
+- Preço
+- Renda
+- Cultura (padrão de consumo)
+- Expectativa (Ex.: Expectativa de que o próximo verão será muito quente)
+
+## Determinantes da Oferta
+
+- Preço
+- Preço dos insumos
+- Tecnologia
+- Expectativa
+
+## Equilíbrio de Mercado
+
+A interseção entre a [[Curva de demanda|curva de demanda]] e a curva de oferta representa o **preço de equilíbrio** e a **quantidade de equilíbrio**.
+
+## Controle de Preço
+
+Preço acima do preço de equilíbrio: gera maior oferta que demanda (Ex: Salário mínimo)
+
+Preço abaixo do preço de equilíbrio: gera maior demanda que oferta (Ex: Tabelamento de preço)
+
+## Elasticidade
+
+Medida de sensibilidade da reação do preço em relação à quantidade.
+
+Inclinação da reta (derivada) da curva de oferta/demanda multiplicada pela razão entre preço e quantidade.
+
+$\epsilon = \frac{\Delta Q}{\Delta P}\cdot\frac{P}{Q}$
