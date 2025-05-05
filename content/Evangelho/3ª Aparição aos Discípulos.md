@@ -1,4 +1,3 @@
-
 [Jo 21,1-19](https://www.bibliaonline.com.br/acf/jo/21/1-19)
 
 Isto ocorre após a morte de NS Jesus Cristo e após Pedro negá-lo 3 vezes.
