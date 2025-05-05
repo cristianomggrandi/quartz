@@ -1,6 +1,6 @@
 [Jo 21,1-19](https://www.bibliaonline.com.br/acf/jo/21/1-19)
 
-Isto ocorre após a morte de NS Jesus Cristo e após Pedro negá-lo 3 vezes.
+Isto ocorre no 3º domingo após a morte de NS Jesus Cristo (2º após a Páscoa) e após Pedro negá-lo 3 vezes.
 
 Pedro volta à vida antiga de pescador, profissão que havia sido substituída pela de pescador de homens. Isso simboliza a volta à vida de pecado como consequência de sua negação a Jesus. Além disso, por ser o líder dos apóstolos, também os lidera ao pecado, levando-os junto à vida antiga. Porém, como do pecado não pode se esperar bons frutos, eles não pescam nada.
 
