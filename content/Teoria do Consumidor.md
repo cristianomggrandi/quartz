@@ -11,7 +11,7 @@ tags:
 
 ### Taxa marginal de substituição
 
-Taxa com que o indivíduo troca um bem por outro, mantendo seu nível de satisfação (mesma curva de indiferença).
+Taxa com que o indivíduo troca um bem por outro, mantendo seu nível de satisfação (mesma [[curva de indiferença]]).
 
 Tende a abrir mão de uma maior quantidade do bem que tem em maior quantidade, para obter uma menor quantidade do bem que tem em menor quantidade.
 
@@ -23,7 +23,7 @@ Diferença entre o que o consumidor está disposto a pagar e o seu preço.
 
 $R \geq P_A \cdot Q_A + P_B \cdot Q_B$ Corrigir
 
-O consumidor busca a curva de indiferença que possui a maior satisfação e se encontra DENTRO da área desenhada pela inequação.
+O consumidor busca a [[curva de indiferença]] que possui a maior satisfação e se encontra DENTRO da área desenhada pela inequação.
 
 
 ### Equilíbrio do consumidor

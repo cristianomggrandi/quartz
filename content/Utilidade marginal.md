@@ -21,6 +21,6 @@ Por conta dela, o consumidor está disposto a despender cada vez menos dinheiro 
 
 VER:
 
-- Curva de indiferença
+- [[Curva de indiferença]]
 - Preço marginal de reserva
 - Cetere paribus

@@ -1,0 +1,1 @@
+A **curva de indiferença** representa todas as combinações de dois bens que trazem o **mesmo nível de utilidade** ao consumidor. Ela ajuda a entender **preferências** e **escolhas racionais**, sem envolver preços ou renda.
