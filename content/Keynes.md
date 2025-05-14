@@ -17,7 +17,7 @@ Contexto:
 - Teoria Keynesiana
 - Eficácia na prática
 
-Pai da macroeconomia, antes dele era microeconomia (compreensão da relação comercial entre indivíduos e firmas)
+Pai da [[macroeconomia]], antes dele era microeconomia (compreensão da relação comercial entre indivíduos e firmas)
 
 Defendia a necessidade de intervenção estatal, com política fiscal e monetária para mitigar os efeitos adversos das crises.
 
