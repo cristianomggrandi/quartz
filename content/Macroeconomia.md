@@ -124,3 +124,87 @@ Ex.: Se a **taxa de reserva** for 10% e alguém depositar 100 mil reais, o banco
 
 Ela gera inflação inversamente proporcional à taxa de reserva.
 $$M = 1/R$$
+## Inflação
+
+Inflação é a perda de valor da moeda.
+### Teoria Quantitativa da Moeda
+A teoria clássica afirma que a inflação é causada pelo aumento da base monetária.
+#### Neutralidade da Moeda (?)
+
+### Outros Tipos de Inflação
+#### Inflação Inercial
+O aumento dos salários gera aumento do consumo, que gera aumento dos lucros, etc. Esse processo se realimenta gerando inflação crescente.
+#### Inflação Estrutural
+Partindo de que é necessário $M - X = 0$ para uma balança comercial equilibrada, porém, em países como o Brasil, em que $M > X$, tende-se a ter um valor decrescente em relação às outras moedas, encarecendo a importação.
+#### Imposto Inflacionário
+O aumento da base monetária com o intuito de aumentar o gasto governamental (G) gera uma inflação "oculta".
+## Oferta agregada $\times$ Demanda agregada
+
+### Flutuações Econômicas
+#### Longo prazo $\times$ Curto prazo
+  
+No curto prazo não há previsibilidade.
+### Demanda agregada
+
+Somatório de tudo que é demandado na economia.
+
+$$Y = C + I + G + X - M$$
+
+### Deslocamento da demanda
+
+### Oferta agregada
+
+Na teoria clássica, a curva de Oferta Agregada é vertical.
+
+Mas, para Keynes, há, no curto prazo, elementos que tornam a curva positivamente inclinada. São eles:
+- Teoria das percepções equivocadas
+  > A assimetria de informações faz com que o ajuste de preço se dê de forma que não seja imediata e diferente para cada agente econômico.
+- Teoria dos salários rígidos
+  > O reajuste anual do salário está sempre defasado em relação aos níveis de preço.
+- Teoria do custo de menu (preços rígidos)
+  > Relativo ao custo de alterar o preço
+### Deslocamento da oferta
+
+## Política Monetária e Política Fiscal sobre a D.A.
+
+### Política Monetária
+Políticas monetárias possuem efeito imediato **somente** na demanda.
+
+#### Preferência pela liquidez
+Relação que o indivíduo faz entre a liquidez da moeda e a possível rentabilidade. Essa relação define a preferência do indivíduo entre investir ou consumir.
+
+#### Juros
+Sempre que há uma redução na taxa SELIC, há um incentivo a um aumento no consumo e no investimento
+
+### Política Fiscal
+Proposta de Keynes. Gasto de curto prazo.
+Ex.: 50 anos em 5. Auxílio na pandemia.
+
+#### Gastos - Multiplicador x Expulsão
+- **Efeito multiplicador:** Cada real gasto circula $x$ vezes na economia.
+
+- **Expulsão (da iniciativa privada):** O aumento do gasto do governo aumenta a demanda por moeda (pelo aumento dos preços). Isso aumenta a taxa de juros, que diminui a quantidade de investimento na economia.
+
+#### Impostos
+
+### Política e Estabilização
+
+Partindo do princípio de que a curva de OA é positivamente inclinada, a discussão se dá em quando o governo deve entrar e quando deve sair.
+Um aspecto dessa discussão é o aumento da volatilidade causado pela intervenção do governo, que é argumento para evitar a intervenção, já que ela pode causar um dano maior que a não intervenção.
+
+## Trade-off entre Inflação e Desemprego
+
+Para os economistas clássicos, não há nenhuma relação entre inflação e desemprego.
+Porém, um economista britânico observou empiricamente que há uma relação inversa entre as duas variáveis.
+
+### A Curva de Phillips
+
+É a curva que descreve a relação entre desemprego e inflação.
+
+#### D.A., O.A. e A Curva de Phillips
+
+A primeira explicação dada foi de que a causa desse fenômeno seria a inclinação positiva da curva de Oferta Agregada, que faz com que alguma variação na quantidade, **no curto prazo**, gera um aumento de preço.
+
+#### A Curva de Philips no Longo Prazo
+
+No longo prazo, não há interferência de uma variável na outra, fazendo com que a curva seja uma linha.
