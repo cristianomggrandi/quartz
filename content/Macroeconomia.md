@@ -129,6 +129,12 @@ $$M = 1/R$$
 Inflação é a perda de valor da moeda.
 ### Teoria Quantitativa da Moeda
 A teoria clássica afirma que a inflação é causada pelo aumento da base monetária.
+
+$$M \times V = P \times Y$$
+$M = \text{Quantidade de moeda}$
+$V = \text{Velocidade de circulação da moeda}$
+$P = \text{Preços dos produtos}$
+$Y = \text{Quantidade real de produtos}$
 #### Neutralidade da Moeda (?)
 
 ### Outros Tipos de Inflação
