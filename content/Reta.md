@@ -7,7 +7,6 @@ tags:
   - matemática
   - geometria
 ---
-
 # Reta
 
 Equação reduzida da reta em $\mathbb{R}^2: ax + b, a = \tan \alpha$.
