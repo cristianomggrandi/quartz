@@ -11,7 +11,7 @@ tags:
 
 ## [[Santo Inácio De Antioquia]]
 
-### The Epistle of Ignatius to the Romans:
+### Carta de Inácio aos Romanos:
 
 > Inácio, que também é chamado Teóforo, à Igreja que obteve misericórdia, através da majestade do Pai Altíssimo e de Jesus Christo, Seu Filho unigênito; a Igreja que é amada e iluminada pela vontade dAquele que deseja todas as coisas que estão de acordo com o amor de Jesus Cristo, nosso Deus, **a qual também preside no lugar da região dos Romanos, digna de Deus, digna de honra, digna da mais alta felicidade, digna de louvor, digna de obter todos os seus desejos, digna de ser considerada santa, e que preside no amor**, é nomeada a partir de Cristo e do Pai, a qual eu também saúdo em nome de Jesus Cristo, o Filho do Pai: àqueles que estão unidos, tanto segundo a carne quanto o espírito, a cada um de Seus mandamentos; que são preenchidos inseparavelmente com a graça de Deus e são purificados de toda mancha estranha, \[desejo\] abundância de felicidade de modo irrepreensível, em Jesus Cristo, nosso Deus. \[...\] **Vós nunca tivestes inveja de ninguém; vós ensinastes a outros.** Agora, desejo que essas coisas sejam confirmadas \[por vossa conduta\], as quais, em vossas instruções, vós prescreveis \[a outros\].
 
