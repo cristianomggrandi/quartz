@@ -24,8 +24,8 @@ No texto, há dois usos do verbo "presidir":
 
 Há duas tendências principais de interpretação:
 
-1. Se interpreta a palavra προκάθηται (*prokáthetai*) mais amplamente e a palavra ἀγάπης (ágape) mais estritamente. Disso, se conclui que o autor está somente testemunhando que a igreja de Roma é eminente em virtude/obras de caridade.
-2. Se interpreta a palavra προκάθηται (*prokáthetai*) estritamente e a palavra ἀγάπης (ágape) mais amplamente. Disso, se infere que o autor testemunha que a igreja romana governa a assembléia da caridade, ou seja, toda a Igreja de Cristo.
+1. Se interpreta a palavra προκαθημένη (*prokathimé*) mais amplamente e a palavra ἀγάπης (ágape) mais estritamente. Disso, se conclui que o autor está somente testemunhando que a igreja de Roma é eminente em virtude/obras de caridade.
+2. Se interpreta a palavra προκαθημένη (*prokathimé*) estritamente e a palavra ἀγάπης (ágape) mais amplamente. Disso, se infere que o autor testemunha que a igreja romana governa a assembléia da caridade, ou seja, toda a Igreja de Cristo.
 
 Sobre isso, argumenta Thoralf T. Thielen, em seu livro **_What is an Ecumenical Council? A Catholic View_** (1960):
 
@@ -56,6 +56,10 @@ Uma objeção possível é interpretar o verbo *convenire* como sendo "reunir", 
 Domenic Joseph Unger, em seu livro [*St. Irenaeus and the Roman Primacy*](https://theologicalstudies.net/wp-content/uploads/2022/08/13.3.3.pdf), demonstra que a maioria dos estudiosos, inclusive protestantes, consideram que o sentido utilizado é o de "concordar" e que, mesmo os que interpretam como "reunir", admitem que se trata de reunir para concordar.
 
 ## Cisma Meleciano
+
+O Cisma Meleciano foi uma divisão na Igreja de Antioquia surgida após a eleição de [[São Melécio]], que, embora ortodoxo, foi apoiado inicialmente por arianos, gerando oposição à seu patriarcado e apoio a um bispo rival chamado Paulino.
+
+Neste contexto, [[São Jerônimo]] é questionado por seguidores de São Melécio acerca de uma terminologia específica sobre a doutrina das naturezas cristológicas. O santo tinha receio de afirmar algo sobre a expressão "uma hipóstase" pelas aparentes influências arianas no termo e em São Melécio. Por isso, escreveu ao papa Dâmaso I estas 2 cartas:
 
 ### [Carta 15](https://www.newadvent.org/fathers/3001015.htm) ([[São Jerônimo]])
 
@@ -141,3 +145,27 @@ Aqui, o Padre utiliza o mesmo termo grego para "presidir" que Santo Inácio de A
 
 Aqui, o Padre estava dizendo que cada apóstolo recebeu um dom e papel específico, sendo que o de Pedro era o de guardar os fundamentos da Igreja.
 
+
+### Decisão do [Papa Dâmaso I](São Dâmaso I)
+
+A decisão do papa foi de que, dado que ambos Paulino e Melécio eram fiéis, eles deveriam conviver em paz ou, na morte de um deles, o sobrevivente deveria permanecer como o único bispo legítimo, sem nova eleição.
+
+Porém, essa decisão de não haver nova eleição após a morte de somente um deles foi desrespeitada com a eleição de Flaviano como sucessor de Melécio. Então, [[Santo Ambrósio]] solicita que se faça um concílio com todos os bispos católicos em Alexandria para decidir a quem deveria ser concedida a Comunhão:
+
+#### [Carta 12](https://www.gutenberg.org/files/58783/58783-h/58783-h.htm) ([[Santo Ambrósio]])
+
+> Com efeito, se a incursão do inimigo não o tivesse impedido, teríamos feito os preparativos para enviar para lá alguns dos nossos, a fim de assumirem o papel de árbitros e mediadores para restaurar a paz, se tal fosse possível. Mas, como os nossos desejos não puderam ser realizados naquela ocasião, devido às tribulações do Estado, julgamos correto elevar nossas preces à vossa Bondade, pedindo que, por acordo entre as facções, após a morte de um, os direitos da Igreja permaneçam com o sobrevivente, e que nenhuma consagração adicional seja tentada à força. E, portanto, solicitamos a vós, mui graciosos e cristãos Príncipes, que ordeneis a realização de um Concílio de todos os Bispos Católicos em Alexandria, para que possam discutir e definir plenamente, entre si, a quem a Comunhão deve ser concedida e com quem deve ser mantida."
+
+#### [Carta 13](https://www.gutenberg.org/files/58783/58783-h/58783-h.htm) ([[Santo Ambrósio]])
+
+> Escrevemos a vós não faz muito tempo que, visto que a cidade de Antioquia possuía dois bispos, Paulino e Melécio, ambos os quais considerávamos fiéis à fé, eles deveriam ou chegar a um acordo mútuo em paz e concórdia, preservando a ordem eclesiástica, ou, ao menos, se um deles falecesse antes do outro, ninguém fosse colocado no lugar do falecido enquanto o outro vivesse. Mas agora, diante da morte de Melécio, permanecendo Paulino ainda vivo — a quem a comunhão herdada de nossos predecessores ininterruptamente atesta ter permanecido em nossa Comunhão — diz-se que outra pessoa foi, não tanto provida, mas antes sobreposta ao lugar de Melécio, contrariamente ao direito e à ordem eclesiástica.
+
+####  Non Nobis
+
+Esta é a resposta de [[São Melécio]] à declaração do concílio de Roma do ano de 377. Ela foi escrita em um Concílio de Antioquia no ano de 379, contando com 150 bispos e sendo presidido pelo próprio Melécio.
+
+> Este é o fim desta carta, ou exposição \[da fé\] do sínodo realizado em Roma sob o [Papa Dâmaso](São Dâmaso I), e enviada ao Oriente, na qual toda a Igreja Oriental, em um sínodo realizado em Antioquia, creu com uma fé semelhante e todos, assim consentindo, confirmaram esta fé com as suas assinaturas. **Eu, Melécio, bispo de Antioquia, consinto com tudo o que foi escrito acima, assim crendo e ensinando; e se alguém crer de outra forma, que seja anátema.**
+
+#### Conclusão
+
+O cisma foi resolvido com uma intervenção direta do bispo de Roma, que se reuniu em concílio no ano de 377 e foi aceito pelos bispos do Patriarcado de Antioquia em 379 em um concílio presidido por [[São Melécio]] que contou com mais 150 bispos.
