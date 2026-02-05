@@ -57,9 +57,23 @@ Domenic Joseph Unger, em seu livro [*St. Irenaeus and the Roman Primacy*](https:
 
 ## Cisma Meleciano
 
-O Cisma Meleciano foi uma divisão na Igreja de Antioquia surgida após a eleição de [[São Melécio]], que, embora ortodoxo, foi apoiado inicialmente por arianos, gerando oposição à seu patriarcado e apoio a um bispo rival chamado Paulino.
+[[São Melécio]] foi eleito em 360 d.C. por uma coalizão de arianos e nicenos.
 
-Neste contexto, [[São Jerônimo]] é questionado por seguidores de São Melécio acerca de uma terminologia específica sobre a doutrina das naturezas cristológicas. O santo tinha receio de afirmar algo sobre a expressão "uma hipóstase" pelas aparentes influências arianas no termo e em São Melécio. Por isso, escreveu ao papa Dâmaso I estas 2 cartas:
+Um mês após a sua posse, o Imperador Constâncio II solicitou que alguns bispos, incluindo Melécio, pregassem sobre o texto de _Provérbios 8:22_ ("O Senhor me criou no início de seus caminhos..."). Isso porque os arianos usavam esse verso para dizer que Cristo era uma criatura. Melécio pregou pela consubstancialidade do Filho com o Pai, doutrina nicena, que desagradou o imperador. Após isso, foi exilado na Armênia. 
+
+Melécio retorna no reinado do Imperador Juliano, em 362 d.C., junto com outros bispos exilados, como [[Santo Atanásio]]. Atanásio, assim que volta, convoca um concílio em Alexandria para tentar curar as divisões da Igreja, abordando, inclusive, o problema de Antioquia. Porém, um bispo chamado Lúcifer de Cagliari consagra Paulino, líder dos Eustatianos (grupo menor, mas fiel a Nicéia) como Bispo de Antioquia. Assim, Antioquia passa a ter duas linhagens episcopais. 
+
+Melécio é exilado novamente em 365 d.C. pelo Imperador Valens, que defendia radicalmente o arianismo.
+
+É exilado pela terceira vez entre 371 e 378 d.C. pelo mesmo Imperador Valens. É desse exílio a qual os santos se referem em suas cartas.
+
+Durante este exílio, Paulino envia um colaborador a Roma, que retorna com uma carta endereçada a Paulino, o que declarava que a comunhão de Roma estava ligada a Paulino e não a Melécio.
+
+O Cisma Meleciano foi essa divisão na Igreja de Antioquia surgida por conta da existência de dois bispos, Melécio, apoiado pela maioria do povo, dos orientais e também dos arianos, e Paulino, reconhecido por Roma, mas apoiado por poucos locais.
+
+Como tentativa de 
+
+Neste contexto, [[São Jerônimo]] é questionado por seguidores de São Melécio acerca de uma terminologia específica sobre a doutrina das naturezas cristológicas. O santo tinha receio de afirmar algo sobre a expressão "três hipóstase" pelas aparentes influências arianas no termo e em São Melécio. Por isso, escreveu ao papa Dâmaso I estas 2 cartas:
 
 ### [Carta 15](https://www.newadvent.org/fathers/3001015.htm) ([[São Jerônimo]])
 
@@ -145,27 +159,30 @@ Aqui, o Padre utiliza o mesmo termo grego para "presidir" que Santo Inácio de A
 
 Aqui, o Padre estava dizendo que cada apóstolo recebeu um dom e papel específico, sendo que o de Pedro era o de guardar os fundamentos da Igreja.
 
-
-### Decisão do [Papa Dâmaso I](São Dâmaso I)
-
-A decisão do papa foi de que, dado que ambos Paulino e Melécio eram fiéis, eles deveriam conviver em paz ou, na morte de um deles, o sobrevivente deveria permanecer como o único bispo legítimo, sem nova eleição.
-
-Porém, essa decisão de não haver nova eleição após a morte de somente um deles foi desrespeitada com a eleição de Flaviano como sucessor de Melécio. Então, [[Santo Ambrósio]] solicita que se faça um concílio com todos os bispos católicos em Alexandria para decidir a quem deveria ser concedida a Comunhão:
-
 #### [Carta 12](https://www.gutenberg.org/files/58783/58783-h/58783-h.htm) ([[Santo Ambrósio]])
 
 > Com efeito, se a incursão do inimigo não o tivesse impedido, teríamos feito os preparativos para enviar para lá alguns dos nossos, a fim de assumirem o papel de árbitros e mediadores para restaurar a paz, se tal fosse possível. Mas, como os nossos desejos não puderam ser realizados naquela ocasião, devido às tribulações do Estado, julgamos correto elevar nossas preces à vossa Bondade, pedindo que, por acordo entre as facções, após a morte de um, os direitos da Igreja permaneçam com o sobrevivente, e que nenhuma consagração adicional seja tentada à força. E, portanto, solicitamos a vós, mui graciosos e cristãos Príncipes, que ordeneis a realização de um Concílio de todos os Bispos Católicos em Alexandria, para que possam discutir e definir plenamente, entre si, a quem a Comunhão deve ser concedida e com quem deve ser mantida."
 
-#### [Carta 13](https://www.gutenberg.org/files/58783/58783-h/58783-h.htm) ([[Santo Ambrósio]])
+### Decisão do [[Papa Dâmaso I]]
 
-> Escrevemos a vós não faz muito tempo que, visto que a cidade de Antioquia possuía dois bispos, Paulino e Melécio, ambos os quais considerávamos fiéis à fé, eles deveriam ou chegar a um acordo mútuo em paz e concórdia, preservando a ordem eclesiástica, ou, ao menos, se um deles falecesse antes do outro, ninguém fosse colocado no lugar do falecido enquanto o outro vivesse. Mas agora, diante da morte de Melécio, permanecendo Paulino ainda vivo — a quem a comunhão herdada de nossos predecessores ininterruptamente atesta ter permanecido em nossa Comunhão — diz-se que outra pessoa foi, não tanto provida, mas antes sobreposta ao lugar de Melécio, contrariamente ao direito e à ordem eclesiástica.
+Como conclusão, o Papa Dâmaso I escreve o "Tomo Damasiano" (_Confessio Fidei Catholicae_), um texto endereçado a Paulino (reconhecendo seu episcopado e sua comunhão com o Papa) em que define os critérios para que se esteja em comunhão com Roma.
 
-####  Non Nobis
+#### Non Nobis
 
-Esta é a resposta de [[São Melécio]] à declaração do concílio de Roma do ano de 377. Ela foi escrita em um Concílio de Antioquia no ano de 379, contando com 150 bispos e sendo presidido pelo próprio Melécio.
+Esta é a resposta de [[São Melécio]] à declaração de Roma logo que retorna do exílio. Ela foi escrita em um Concílio de Antioquia no ano de 379, contando com 150 bispos e sendo presidido pelo próprio Melécio.
 
 > Este é o fim desta carta, ou exposição \[da fé\] do sínodo realizado em Roma sob o [Papa Dâmaso](São Dâmaso I), e enviada ao Oriente, na qual toda a Igreja Oriental, em um sínodo realizado em Antioquia, creu com uma fé semelhante e todos, assim consentindo, confirmaram esta fé com as suas assinaturas. **Eu, Melécio, bispo de Antioquia, consinto com tudo o que foi escrito acima, assim crendo e ensinando; e se alguém crer de outra forma, que seja anátema.**
 
-#### Conclusão
+Aqui, Melécio subescreve à declaração de Roma, removendo o mal-entendido que causava um impedimento de seu reconhecimento como bispo por Roma.
 
-O cisma foi resolvido com uma intervenção direta do bispo de Roma, que se reuniu em concílio no ano de 377 e foi aceito pelos bispos do Patriarcado de Antioquia em 379 em um concílio presidido por [[São Melécio]] que contou com mais 150 bispos.
+#### Eleição de Flaviano
+
+De acordo com [[Sócrates Escolástico]] e [[Sozomeno]], em torno de 381 d.C., foi acordado entre os 6 principais presbíteros (incluindo Flaviano) que, se um dos bispos morresse, não haveria consagração episcopal e nenhum deles aceitariam ser eleito bispo até que o segundo também morresse, para que somente nesse momento fosse escolhido o próximo bispo de Antioquia.
+
+Essa decisão foi desrespeitada quando São Melécio morre durante o Concílio de Constantinopla, que ele mesmo presidia. Após isso, [[São Gregório de Nazianzo]] (que assumiu a presidência após Melécio) implorou aos bispos que respeitassem o pacto e aceitassem Paulino para acabar com o cisma e agradar ao Ocidente, porém, mesmo assim, elegeram Flaviano, estendendo o cisma por mais 17 anos.
+
+Por conta dessa eleição não canônica, Santo Ambrósio envia uma nova carta ao Papa:
+
+#### [Carta 13](https://www.gutenberg.org/files/58783/58783-h/58783-h.htm) ([[Santo Ambrósio]])
+
+> Escrevemos a vós não faz muito tempo que, visto que a cidade de Antioquia possuía dois bispos, Paulino e Melécio, ambos os quais considerávamos fiéis à fé, eles deveriam ou chegar a um acordo mútuo em paz e concórdia, preservando a ordem eclesiástica, ou, ao menos, se um deles falecesse antes do outro, ninguém fosse colocado no lugar do falecido enquanto o outro vivesse. Mas agora, diante da morte de Melécio, permanecendo Paulino ainda vivo — a quem a comunhão herdada de nossos predecessores ininterruptamente atesta ter permanecido em nossa Comunhão — diz-se que outra pessoa foi, não tanto provida, mas antes sobreposta ao lugar de Melécio, contrariamente ao direito e à ordem eclesiástica.
