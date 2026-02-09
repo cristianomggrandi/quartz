@@ -186,3 +186,82 @@ Por conta dessa eleição não canônica, Santo Ambrósio envia uma nova carta a
 #### [Carta 13](https://www.gutenberg.org/files/58783/58783-h/58783-h.htm) ([[Santo Ambrósio]])
 
 > Escrevemos a vós não faz muito tempo que, visto que a cidade de Antioquia possuía dois bispos, Paulino e Melécio, ambos os quais considerávamos fiéis à fé, eles deveriam ou chegar a um acordo mútuo em paz e concórdia, preservando a ordem eclesiástica, ou, ao menos, se um deles falecesse antes do outro, ninguém fosse colocado no lugar do falecido enquanto o outro vivesse. Mas agora, diante da morte de Melécio, permanecendo Paulino ainda vivo — a quem a comunhão herdada de nossos predecessores ininterruptamente atesta ter permanecido em nossa Comunhão — diz-se que outra pessoa foi, não tanto provida, mas antes sobreposta ao lugar de Melécio, contrariamente ao direito e à ordem eclesiástica.
+
+#### Concílio de Constantinopla
+
+Como mais uma evidência da comunhão de São Melécio e os bispos que assinaram a carta Non Nobis, a lista dos bispos convocados ao concílio pelos imperadores Graciano, Valentiniano e Teodósio é idêntica à lista de assinaturas da Non Nobis, ou seja, os imperadores utilizaram esta para compor aquela, justamente porque era uma lista de bispos orientais em comunhão com o ocidente e com o papa.
+
+## Cisma de Acácio
+
+O Cisma de Acácio foi uma ruptura de 35 anos entre as igrejas de Roma e de Constantinopla. O motivo foi a heresia [[monofisita]], que negava a coexistência das naturezas humanas e divinas de Cristo (união hipostática) e dizia que a natureza divina havia "absorvido" a humana. Ela havia sido condenada no [[Concílio de Calcedônia]] (451), porém ainda havia muitos no Oriente que acreditavam nela.
+
+### Henotikon
+
+Em 482, o imperador bizantino Zenão, influenciado por Acácio, Patriarca de Constantinopla, e buscando uma unidade no império, que estava tendo sua paz abalada, publicou um édito (anúncio de lei) chamado Henotikon ("Instrumento de União"), que proibia que se utilizasse qualquer critério que não fosse presente nos concílios I de Nicéia e I de Calcedônia, ignorando o de Calcedônia, que condenava o monofisismo. 
+
+Isso acabou desagradando tanto os ortodoxos quanto os monofisitas, porém, mesmo assim, todos os Patriarcas, Acácio, Patriarca de Constantinopla, Pedro Mongo, Patriarca de Alexandria, Pedro, o Pisoeiro, Patriarca de Antioquia e Martírio, Patriarca de Jerusalém assinaram.
+
+Como resposta, o [[Papa Félix III]] convocou um sínodo em Roma em 484, contando com 67 bispos, que condenou o édito e excomungou Acácio, Pedro Mongo e Pedro, o Pisoeiro. Acácio remove o nome do Papa dos dípticos (orações oficiais da missa).
+
+### 35 anos de cisma
+
+Acácio morre em 489, mas seu sucessores se recusam a remover seu nome da lista de santos/patriarcas da igreja, que era um requisito que Roma exigia, para o retorno da comunhão.
+
+Imperador Anastácio I sucede Zenão, mas possui as mesmas inclinações monofisitas.
+
+Em 514, um general bizantino chamado Vitaliano se rebela contra Anastácio, exigindo, entre as demandas, que retornassem à ortodoxia de Calcedônia e o fim do cisma com Roma.
+Esta contenda acabou sendo concluída com o envio de duas cartas ao papa, buscando reconciliação. A resposta do papa foi a encíclica Libellus Hormidae, de 515, que será discutida mais à frente.
+
+Em 518, morre Anastácio I e é sucedido por Justino I, um calcedoniano que desejava restaurar a paz com o Ocidente.
+
+### Aclamações de Constantinopla
+
+No mesmo ano de 518, durante a missa do domingo seguinte à declaração de Justino como o novo imperador, enquanto entravam ele, João da Capadócia, patriarca de Constantinopla e seus 12 prelados, o povo gritava algo como:
+
+> Vida longa ao patriarca! Vida longa ao imperador! Por que ainda estamos excomungados? Por não comungamos durante todos este anos? Vocês são católicos e temem o quê, valorosos servos da Trindade? Expulsem Severo, o Maniqueu! Ó Justino, nosso imperador, a vitória é sua! Proclame neste instante o sínodo de Calcedônia, pois Justino reina.
+
+Depois, gritaram também:
+
+> Vocês não sairão enquanto não anatemizarem Severo *(Patriarca de Antioquia que subscrevia à heresia miafisita, defendendo que Jesus teria uma natureza que seria tanto divina quanto humana, unidas sem separação)*!
+
+A resposta de João da Capadócia foi esta, afirmando que reconhecia o concílio de Calcedônia:
+
+> Não há necessidade de distúrbios ou tumultos. Nada foi feito contra a fé. Nós reconhecemos como ortodoxos todos os concílios que confirmaram os decretos de Niceia, principalmente estes três: Constantinopla, Éfeso e o grande concílio de Calcedônia!
+
+Mesmo assim, o povo ainda gritou por horas, cobrando que fosse tomada uma decisão mais formal, com um sínodo ou com uma festa oficial em honra ao Concílio de Calcedônia. Por fim, o patriarca, com o conselho de seus prelados, decidiu anatemizar Severo:
+
+> É claro para todos que Severo, ao se separar de sua igreja, condenou a si mesmo. Seguindo, portanto, os cânones e os Pais, nos o consideramos um estranho e condenado por conta de suas blasfêmias, e nós o anatemizamos!
+
+No dia seguinte, durante a comemoração em honra à Calcedônia, na entrada do patriarca, o povo gritou:
+
+> "Restaurem as relíquias de Macedônio à igreja! Restaurem todos os que foram exilados pela fé! Desenterrem os ossos dos nestorianos! Desenterrem os ossos dos eutiquianos *(monofisitas)*! Expulsem os maniqueístas! Coloquem os quatro concílios nos dípticos! Coloquem Leão, o bispo de Roma, nos dípticos! Tragam os dípticos ao púlpito!"
+
+A isso, responde o patriarca:
+
+> "Ontem, nós fizemos o suficiente para satisfazer o meu querido povo e nós faremos o mesmo hoje. Devemos ter na fé a nossa fundação inviolável e ela vai nos ajudar a reunir as igrejas. Vamos então glorificar, com uma única voz, a sagrada e consubstancial Trindade!
+
+Porém, o povo continuou protestando e, enfim, o patriarca incluiu os quatro concílios nos dípticos, além de Eufêmio e Macedônio, patriarcas exilados e Leão e Hormisdas, o papa anterior e o atual. Tudo isso foi oficializado em um concílio com 40 bispos que estavam na capital.
+
+Dias depois, o patriarca escreve ao papa informado dessa decisão e pedindo que houvesse uma reunião das igrejas. 
+
+	Referência: Dicionário de Biografias Cristãs e Literatura do final do século VI, com o relato das principais seitas e heresias (Henry Wace).
+
+### Fórmula de [[Santo Hormisdas]]
+
+Após pressão de Vitaliano, Anastácio I envia seu sobrinho, Flávio Hipácio para lutar contra o seu exército. Flávio é derrotado, o que obriga Anastácio a entrar em negociação, então ele envia duas cartas ao papa. Após o recebimento, o Papa convoca um sínodo em Roma e anuncia uma epístola em resposta, a chamada *Libellus Horsmidae* (a Fórmula de Hormisdas), em que ele expressa as condições em que haveria comunhão.
+
+O documento vinha com um cabeçalho padrão, mas tinha um espaço para o bispo local preencher:
+
+> Eu, \[NOME DO BISPO\], bispo da cidade de \[NOME DA CIDADE\], assino esta minha profissão de fé...
+
+Seguido de:
+
+> A primeira condição para a salvação é a preservação da fé ortodoxa e em nenhum caso \[é salvação\] afastar-se das doutrinas dos Padres. Pois é impossível que as palavras de nosso Senhor Jesus Cristo, que disse: "Tu és Pedro, e sobre esta pedra edificarei a minha Igreja" \[Mt 16:18\], não sejam verdadeiras. E sua verdade foi provada pelo curso da história, uma vez que na Sé Apostólica \[Roma\] a Ortodoxia sempre foi preservada inalterada. Dessa esperança e fé não queremos nos separar e, seguindo a fé dos Padres, anatematizamos todas as heresias e, em particular, o herege Nestório, antigo Patriarca de Constantinopla, que foi anatematizado pelo Concílio de Éfeso, por Hossius Celestine Papa \[Bispo de Roma\] e por Cirilo Bispo de Alexandria. E nós, portanto, anatematizamos Êutico e Dióscoro de Alexandria, que foram anatematizados pelo santo Concílio de Calcedônia, que seguimos e respeitamos.
+> 
+> Este Concílio, juntamente com o santo Concílio de Nicéia, ensinou a fé apostólica. E nós condenamos o assassino Timóteo Ailurus e Pedro \[Mongo\] de Alexandria, seu discípulo e seguidor em todas as coisas. Também anatematizamos seu assistente e fiel Acácia de Constantinopla, bispo anátema de Roma, e todos aqueles que permanecem em contato e companhia com ele. Pelo fato de Acácia ter entrado em comunhão e união com eles, ele merece ser condenado da mesma forma que eles. Como também condenamos Pedro de Antioquia com todos os seus discípulos, e com os discípulos de todos os mencionados acima.
+> 
+> Portanto, permanecendo fiéis, como dissemos acima, e seguindo em todas as coisas a Sé Apostólica e pregando todas as suas decisões, ratificamos e aprovamos todas as cartas do Papa São Leão, que ele escreveu a respeito da fé cristã. E espero ser considerado digno de estar com vocês em união com o que a Sé Apostólica de Roma prega e ensina, na qual \[a Sé de Roma\] se encontra toda a verdadeira e perfeita segurança da fé cristã. Prometo que, de agora em diante, aqueles que estão separados da Igreja Católica, ou seja, aqueles que discordam do ensinamento da Sé Apostólica, não serão mencionados durante os Sacramentos Divinos. Mas se eu violar o menor de meus testemunhos \[que assino nesta imprensa\], então me declaro cúmplice daqueles que condeno.
+> 
+> Assino meu testemunho com minha própria mão e o entrego a Vossa Excelência, Ormistas, santíssimo Papa da Sé Apostólica de Roma. 
+
+#### Cânon 28 do Concílio de Calcedônia
