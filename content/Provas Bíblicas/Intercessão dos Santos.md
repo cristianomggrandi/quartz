@@ -9,7 +9,7 @@ tags:
 ---
 # Intercessão dos Santos
 
-> _A intercessão dos santos._ «Os bem-aventurados, estando mais intimamente unidos com Cristo, consolidam mais firmemente a Igreja na santidade \[...\]. Eles não cessam de interceder a nosso favor, diante do Pai, apresentando os méritos que na terra alcançaram, graças ao Mediador único entre Deus e os homens, Jesus Cristo \[...\]. A nossa fraqueza é assim grandemente ajudada pela sua solicitude fraterna» (516)
+> _A intercessão dos santos._ «Os bem-aventurados, estando mais intimamente unidos com Cristo, consolidam mais firmemente a Igreja na santidade \[...\]. Eles não cessam de interceder a nosso favor, diante do Pai, apresentando os méritos que na terra alcançaram, graças ao Mediador único entre Deus e os homens, Jesus Cristo \[...\]. A nossa fraqueza é assim grandemente ajudada pela sua solicitude fraterna»
 > 
 > *Catecismo da Igreja Católica, Parágrafo 956*
 
